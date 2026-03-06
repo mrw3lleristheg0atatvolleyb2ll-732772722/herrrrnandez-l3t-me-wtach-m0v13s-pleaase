@@ -1,0 +1,46 @@
+[
+  {
+    "iconClass": "ri-home-9-line",
+    "name": "Home",
+    "type": "item",
+    "url": "/page/home.html"
+  },
+  {
+    "type": "divider"
+  },
+  {
+    "iconClass": "ri-gamepad-line",
+    "name": "Play",
+    "type": "item",
+    "url": "/page/games/index.html",
+    "tag": "UPDATED"
+  },
+  {
+    "iconClass": "ri-film-line",
+    "name": "Watch",
+    "type": "item",
+    "url": "/page/media/index.html"
+  },
+  {
+    "iconClass": "ri-robot-2-line",
+    "name": "AI",
+    "type": "item",
+    "url": "/page/ai/index.html",
+    "tag": "NEW"
+  },
+  {
+    "iconClass": "ri-music-2-line",
+    "name": "Listen",
+    "type": "item",
+    "url": "/page/music/index.html",
+    "tag": "UPDATED"
+
+  },
+  {
+    "iconClass": "ri-global-line",
+    "name": "Browse",
+    "type": "item",
+    "url": "/browser.html",
+    "disabled": true
+  }
+]

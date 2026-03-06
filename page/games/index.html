@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <script src="/cfg.js"></script>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link href="/style/all.css" rel="stylesheet" />
+    <script src="/script/theme.js"></script>
+    <link href="style.css" rel="stylesheet" />
+    <script
+      async
+      src="https://www.googletagmanager.com/gtag/js?id=G-PPE9RTDYDG"
+    ></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag() {
+        dataLayer.push(arguments);
+      }
+      gtag("js", new Date());
+      gtag("config", "G-PPE9RTDYDG");
+    </script>
+  </head>
+  <body>
+    <div id="browser-view">
+      <div class="backdrop" id="backdrop"></div>
+      <div class="top-bar-container">
+        <div class="top-bar-content">
+          <div class="dropdown-wrapper" id="source-dropdown-wrapper">
+            <div class="dropdown-menu" id="source-selector">
+              <i class="ri-more-fill" id="current-source-icon"></i>
+              <span class="dropdown-text">...</span>
+              <i class="ri-arrow-down-s-line" id="source-chevron"></i>
+            </div>
+            <div class="dropdown-options" id="source-options-container">
+              <!-- a -->
+            </div>
+          </div>
+          <div class="search-bar">
+            <i class="ri-search-line"></i>
+            <input type="text" placeholder="..." />
+            <i
+              class="ri-global-line global-search-icon"
+              id="global-search-btn"
+              title="Search all sources"
+            ></i>
+            <div
+              class="dropdown-wrapper filter-dropdown"
+              id="filter-dropdown-wrapper"
+            >
+              <i class="ri-filter-3-line filter-icon"></i>
+              <div class="dropdown-options filter-dropdown-options">
+                <div class="option" data-value="default">Default</div>
+                <div class="option" data-value="alphabetical">Alphabetical</div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="grid-container" id="grid">
+        <div id="global-status-text">SEARCHING ALL SOURCES...</div>
+        <div id="list-description" class="list-description"></div>
+        <p class="no-results-message">No results found.</p>
+      </div>
+    </div>
+    <div id="game-overlay">
+      <div id="loading-container">
+        <div class="lds-ripple">
+          <div></div>
+          <div></div>
+        </div>
+        <div id="loading-message">LOADING..</div>
+      </div>
+      <div id="game-wrapper">
+        <div id="button-panel">
+          <button class="icon-button" id="back-btn" title="Back">
+            <i class="ri-arrow-left-line"></i>
+          </button>
+          <button class="icon-button" id="fullscreen-btn" title="Fullscreen">
+            <i class="ri-fullscreen-line"></i>
+          </button>
+        </div>
+        <iframe id="game-content-frame" tabindex="1"></iframe>
+      </div>
+    </div>
+    <script src="script.js"></script>
+  </body>
+</html>

@@ -1,0 +1,817 @@
+[
+    {
+      "name": "The Final Earth 2",
+      "cover": "/games/tglsc/img/applications-img/the-final-earth-2.png",
+      "url": "/games/tglsc/applications/content/the-final-earth-2/"
+    },
+    {
+      "name": "Tuner Racer",
+      "cover": "/games/tglsc/img/applications-img/tuner-racer.png",
+      "url": "/games/tglsc/applications/content/tuner-racer/"
+    },
+    {
+      "name": "Top Driver",
+      "cover": "/games/tglsc/img/applications-img/top-driver.png",
+      "url": "/games/tglsc/applications/content/top-driver/"
+    },
+    {
+      "name": "Top Driver 2",
+      "cover": "/games/tglsc/img/applications-img/top-driver-2.png",
+      "url": "/games/tglsc/applications/content/top-driver-2/"
+    },
+    {
+      "name": "Block Tech: Epic Sandbox",
+      "cover": "/games/tglsc/img/applications-img/block-tech.png",
+      "url": "/games/tglsc/applications/content/block-tech/"
+    },
+    {
+      "name": "PolyTrack",
+      "cover": "/games/tglsc/img/applications-img/polytrack.png",
+      "url": "/games/tglsc/applications/content/0.5.2/"
+    },
+    {
+      "name": "Indian Truck Driving",
+      "cover": "/games/tglsc/img/applications-img/indian-truck-driving.png",
+      "url": "/games/tglsc/applications/content/indian-truck-driving/"
+    },
+    {
+      "name": "Slope",
+      "cover": "/games/tglsc/img/applications-img/slope.png",
+      "url": "/games/tglsc/applications/content/slopenew/"
+    },
+    {
+      "name": "Ultimate Car Driving Simulator",
+      "cover": "/games/tglsc/img/applications-img/ultimate-car-driving-simulator.png",
+      "url": "/games/tglsc/applications/content/ultimate-car-driving-simulator/"
+    },
+    {
+      "name": "Sky Riders",
+      "cover": "/games/tglsc/img/applications-img/sky-riders.png",
+      "url": "/games/tglsc/applications/content/sky-riders/"
+    },
+    {
+      "name": "Optric",
+      "cover": "/games/tglsc/img/applications-img/optric.png",
+      "url": "/games/tglsc/applications/content/optric/"
+    },
+    {
+      "name": "Granny Prison Escape",
+      "cover": "/games/tglsc/img/applications-img/granny-prison-escape.png",
+      "url": "/games/tglsc/applications/content/granny-prison-escape/"
+    },
+    {
+      "name": "Granny Forest Escape",
+      "cover": "/games/tglsc/img/applications-img/granny-forest-escape.png",
+      "url": "/games/tglsc/applications/content/granny-forest-escape/"
+    },
+    {
+      "name": "Granny's Classroom Nightmare",
+      "cover": "/games/tglsc/img/applications-img/granny-classroom-nightmare.png",
+      "url": "/games/tglsc/applications/content/granny-classroom-nightmare/"
+    },
+    {
+      "name": "Shoot Granny",
+      "cover": "/games/tglsc/img/applications-img/shoot-granny.png",
+      "url": "/games/tglsc/applications/content/shoot-granny/"
+    },
+    {
+      "name": "Granny",
+      "cover": "/games/tglsc/img/applications-img/granny.png",
+      "url": "/games/tglsc/applications/content/granny/"
+    },
+    {
+      "name": "Granny 2",
+      "cover": "/games/tglsc/img/applications-img/granny-2.png",
+      "url": "/games/tglsc/applications/content/granny-2/"
+    },
+    {
+      "name": "Granny 4",
+      "cover": "/games/tglsc/img/applications-img/granny-4.png",
+      "url": "/games/tglsc/applications/content/granny-4/"
+    },
+    {
+      "name": "Crazy Bikes!",
+      "cover": "/games/tglsc/img/applications-img/crazy-bikes.png",
+      "url": "/games/tglsc/applications/content/crazy-bikes/"
+    },
+    {
+      "name": "Crazy Cars!",
+      "cover": "/games/tglsc/img/applications-img/crazy-cars.png",
+      "url": "/games/tglsc/applications/content/crazy-cars/"
+    },
+    {
+      "name": "Zombie Derby: Pixel Survival",
+      "cover": "/games/tglsc/img/applications-img/zombie-derby-pixel-survival.png",
+      "url": "/games/tglsc/applications/content/zombie-derby-pixel-survival/"
+    },
+    {
+      "name": "SpookyTrack",
+      "cover": "/games/tglsc/img/applications-img/spookytrack.png",
+      "url": "/games/tglsc/applications/content/spookytrack/"
+    },
+    {
+      "name": "Block Blast",
+      "cover": "/games/tglsc/img/applications-img/block-blast.png",
+      "url": "/games/tglsc/applications/content/block-blast/"
+    },
+    {
+      "name": "YoHoHo.io",
+      "cover": "/games/tglsc/img/applications-img/yohoho-io.png",
+      "url": "/games/tglsc/applications/content/yohoho-io/"
+    },
+    {
+      "name": "Funny Shooter 2",
+      "cover": "/games/tglsc/img/applications-img/funny-shooter-2.png",
+      "url": "/games/tglsc/applications/content/funny-shooter-2/"
+    },
+    {
+      "name": "Ducklings.io",
+      "cover": "/games/tglsc/img/applications-img/ducklings-io.png",
+      "url": "/games/tglsc/applications/content/ducklings-io/"
+    },
+    {
+      "name": "Idle Ants",
+      "cover": "/games/tglsc/img/applications-img/idle-ants.png",
+      "url": "/games/tglsc/applications/content/idle-ants/"
+    },
+    {
+      "name": "Raft Survival",
+      "cover": "/games/tglsc/img/applications-img/raft-survival.png",
+      "url": "/games/tglsc/applications/content/raft-survival/"
+    },
+    {
+      "name": "Grand Vegas Simulator",
+      "cover": "/games/tglsc/img/applications-img/grand-vegas-simulator.png",
+      "url": "/games/tglsc/applications/content/grand-vegas-simulator/"
+    },
+    {
+      "name": "Sniper Shot: Bullet Time",
+      "cover": "/games/tglsc/img/applications-img/sniper-shot-bullet-time.png",
+      "url": "/games/tglsc/applications/content/sniper-shot-bullet-time/"
+    },
+    {
+      "name": "House Of Hazards",
+      "cover": "/games/tglsc/img/applications-img/house-of-hazards.png",
+      "url": "/games/tglsc/applications/content/house-of-hazards/"
+    },
+    {
+      "name": "House Painter",
+      "cover": "/games/tglsc/img/applications-img/house-painter.png",
+      "url": "/games/tglsc/applications/content/house-painter/"
+    },
+    {
+      "name": "Sling Drift",
+      "cover": "/games/tglsc/img/applications-img/sling-drift.png",
+      "url": "/games/tglsc/applications/content/sling-drift/"
+    },
+    {
+      "name": "Blacktop: Police Chase",
+      "cover": "/games/tglsc/img/applications-img/blacktop-police-chase.png",
+      "url": "/games/tglsc/applications/content/blacktop-police-chase/"
+    },
+    {
+      "name": "Subway Surfers",
+      "cover": "/games/tglsc/img/applications-img/subway-surfers.png",
+      "url": "/games/tglsc/applications/content/subway-surfers/"
+    },
+    {
+      "name": "Drive Mad",
+      "cover": "/games/tglsc/img/applications-img/drive-mad.png",
+      "url": "/games/tglsc/applications/content/drive-mad/"
+    },
+    {
+      "name": "Skyblock 3D: Survival",
+      "cover": "/games/tglsc/img/applications-img/skyblock-3d.png",
+      "url": "/games/tglsc/applications/content/skyblock-3d/"
+    },
+    {
+      "name": "Drag Racer V3",
+      "cover": "/games/tglsc/img/applications-img/drag-racer-v3.png",
+      "url": "/games/tglsc/applications/content/drag-racer-v3/"
+    },
+    {
+      "name": "Rogue Within",
+      "cover": "/games/tglsc/img/applications-img/rogue-within.png",
+      "url": "/games/tglsc/applications/content/rogue-within/"
+    },
+    {
+      "name": "Crossing The Pit",
+      "cover": "/games/tglsc/img/applications-img/crossing-the-pit.png",
+      "url": "/games/tglsc/applications/content/henry-stickman-collection/crossing-the-pit/"
+    },
+    {
+      "name": "Breaking The Bank",
+      "cover": "/games/tglsc/img/applications-img/breaking-the-bank.png",
+      "url": "/games/tglsc/applications/content/henry-stickman-collection/breaking-the-bank/"
+    },
+    {
+      "name": "Crazy Cattle 3D",
+      "cover": "/games/tglsc/img/applications-img/crazy-cattle.png",
+      "url": "/games/tglsc/applications/content/crazy-cattle/"
+    },
+    {
+      "name": "Monster Tracks",
+      "cover": "/games/tglsc/img/applications-img/monster-tracks.png",
+      "url": "/games/tglsc/applications/content/monster-tracks/"
+    },
+    {
+      "name": "Hide And Seek Pro",
+      "cover": "/games/tglsc/img/applications-img/hide-and-seek-pro.png",
+      "url": "/games/tglsc/applications/content/hide-and-seek-pro/"
+    },
+    {
+      "name": "Revolution Idle X",
+      "cover": "/games/tglsc/img/applications-img/revolution-idle-x.png",
+      "url": "/games/tglsc/applications/content/revolution-idle-x/"
+    },
+    {
+      "name": "Traffic Tour",
+      "cover": "/games/tglsc/img/applications-img/traffic-tour.png",
+      "url": "/games/tglsc/applications/content/traffic-tour/"
+    },
+    {
+      "name": "Stunt Car Challenge 3",
+      "cover": "/games/tglsc/img/applications-img/stunt-car-challenge-3.png",
+      "url": "/games/tglsc/applications/content/stunt-car-challenge-3/"
+    },
+    {
+      "name": "Drag Racing Rivals",
+      "cover": "/games/tglsc/img/applications-img/drag-racing-rivals.png",
+      "url": "/games/tglsc/applications/content/drag-racing-rivals/"
+    },
+    {
+      "name": "Gladihoppers",
+      "cover": "/games/tglsc/img/applications-img/gladihoppers.png",
+      "url": "/games/tglsc/applications/content/gladihoppers/"
+    },
+    {
+      "name": "Rise Higher",
+      "cover": "/games/tglsc/img/applications-img/rise-higher.png",
+      "url": "/games/tglsc/applications/content/rise-higher/"
+    },
+    {
+      "name": "Bad Piggies",
+      "cover": "/games/tglsc/img/applications-img/bad-piggies.png",
+      "url": "/games/tglsc/applications/content/bad-piggies/"
+    },
+    {
+      "name": "Burnout Drift Hilltop",
+      "cover": "/games/tglsc/img/applications-img/burnout-drift-hilltop.png",
+      "url": "/games/tglsc/applications/content/burnout-drift-hilltop/"
+    },
+    {
+      "name": "Drift Boss",
+      "cover": "/games/tglsc/img/applications-img/drift-boss.png",
+      "url": "/games/tglsc/applications/content/drift-boss/"
+    },
+    {
+      "name": "Drift Hunters",
+      "cover": "/games/tglsc/img/applications-img/drift-hunters.png",
+      "url": "/games/tglsc/applications/content/drift-hunters/"
+    },
+    {
+      "name": "Drift Hunters Pro",
+      "cover": "/games/tglsc/img/applications-img/drift-hunters-pro.png",
+      "url": "/games/tglsc/applications/content/drift-hunters-pro/"
+    },
+    {
+      "name": "Cubefield",
+      "cover": "/games/tglsc/img/applications-img/cubefield.png",
+      "url": "/games/tglsc/applications/content/cubefield/"
+    },
+    {
+      "name": "Cluster Rush",
+      "cover": "/games/tglsc/img/applications-img/cluster-rush.png",
+      "url": "/games/tglsc/applications/content/cluster-rush/"
+    },
+    {
+      "name": "Happy Wheels",
+      "cover": "/games/tglsc/img/applications-img/happy-wheels.png",
+      "url": "/games/tglsc/applications/content/happy-wheels/"
+    },
+    {
+      "name": "Getaway Shootout",
+      "cover": "/games/tglsc/img/applications-img/getaway-shootout.png",
+      "url": "/games/tglsc/applications/content/getaway-shootout/"
+    },
+    {
+      "name": "Pako Highway",
+      "cover": "/games/tglsc/img/applications-img/pako-highway.png",
+      "url": "/games/tglsc/applications/content/pako-highway/"
+    },
+    {
+      "name": "Cat Brick Breaker",
+      "cover": "/games/tglsc/img/applications-img/cat-brick.png",
+      "url": "/games/tglsc/applications/content/oiacatbrickbreaker/"
+    },
+    {
+      "name": "GunNight.io",
+      "cover": "/games/tglsc/img/applications-img/gunnight-io.png",
+      "url": "/games/tglsc/applications/content/gunnight-io/"
+    },
+    {
+      "name": "Heist.io",
+      "cover": "/games/tglsc/img/applications-img/heist-io.png",
+      "url": "/games/tglsc/applications/content/heist-io/"
+    },
+    {
+      "name": "BitLife",
+      "cover": "/games/tglsc/img/applications-img/bitlife.png",
+      "url": "/games/tglsc/applications/content/bitlife/"
+    },
+    {
+      "name": "Skibidi 1v100",
+      "cover": "/games/tglsc/img/applications-img/skibidi-1v100.png",
+      "url": "/games/tglsc/applications/content/skibidi-1v100/"
+    },
+    {
+      "name": "Death Run 3D",
+      "cover": "/games/tglsc/img/applications-img/death-run-3d.png",
+      "url": "/games/tglsc/applications/content/death-run-3d/"
+    },
+    {
+      "name": "Rocket Soccer Derby",
+      "cover": "/games/tglsc/img/applications-img/rocket-soccer-derby.png",
+      "url": "/games/tglsc/applications/content/rocket-soccer-derby/"
+    },
+    {
+      "name": "Tunnel Rush",
+      "cover": "/games/tglsc/img/applications-img/tunnel-rush.png",
+      "url": "/games/tglsc/applications/content/tunnel-rush/"
+    },
+    {
+      "name": "Choppy Orc",
+      "cover": "/games/tglsc/img/applications-img/choppy-orc.png",
+      "url": "/games/tglsc/applications/content/choppy-orc/"
+    },
+    {
+      "name": "Astro Survivors",
+      "cover": "/games/tglsc/img/applications-img/astro-survivors.png",
+      "url": "/games/tglsc/applications/content/astro-survivors/"
+    },
+    {
+      "name": "Roper",
+      "cover": "/games/tglsc/img/applications-img/roper.png",
+      "url": "/games/tglsc/applications/content/roper/"
+    },
+    {
+      "name": "Tomb Of The Mask",
+      "cover": "/games/tglsc/img/applications-img/tomb-of-the-mask.png",
+      "url": "/games/tglsc/applications/content/tomb-of-the-mask/"
+    },
+    {
+      "name": "Big Tower Tiny Square",
+      "cover": "/games/tglsc/img/applications-img/big-tower-tiny-square.png",
+      "url": "/games/tglsc/applications/content/big-tower-tiny-square/"
+    },
+    {
+      "name": "FNAF 3",
+      "cover": "/games/tglsc/img/applications-img/fnaf3.png",
+      "url": "/games/tglsc/applications/content/fnaf-3/"
+    },
+    {
+      "name": "Swingo",
+      "cover": "/games/tglsc/img/applications-img/swingo.png",
+      "url": "/games/tglsc/applications/content/swingo/"
+    },
+    {
+      "name": "Run 3",
+      "cover": "/games/tglsc/img/applications-img/run-3.png",
+      "url": "/games/tglsc/applications/content/run-3/"
+    },
+    {
+      "name": "Frying Nemo",
+      "cover": "/games/tglsc/img/applications-img/frying-nemo.png",
+      "url": "/games/tglsc/applications/content/frying-nemo/"
+    },
+    {
+      "name": "Neon Swing",
+      "cover": "/games/tglsc/img/applications-img/neon-swing.png",
+      "url": "/games/tglsc/applications/content/neon-swing/"
+    },
+    {
+      "name": "Dune!",
+      "cover": "/games/tglsc/img/applications-img/dune.png",
+      "url": "/games/tglsc/applications/content/dune/"
+    },
+    {
+      "name": "Sketchbook",
+      "cover": "/games/tglsc/img/applications-img/sketchbook.png",
+      "url": "/games/tglsc/applications/content/sketchbook/"
+    },
+    {
+      "name": "Free Rider Jumps",
+      "cover": "/games/tglsc/img/applications-img/free-rider-jumps.png",
+      "url": "/games/tglsc/applications/content/free-rider-jumps/"
+    },
+    {
+      "name": "Fear Response",
+      "cover": "/games/tglsc/img/applications-img/fear-response.png",
+      "url": "/games/tglsc/applications/content/fear-response/"
+    },
+    {
+      "name": "4x4 Offroad",
+      "cover": "/games/tglsc/img/applications-img/4x4.png",
+      "url": "/games/tglsc/applications/content/4x4/"
+    },
+    {
+      "name": "Merge Round Racers",
+      "cover": "/games/tglsc/img/applications-img/merge-round-racers.png",
+      "url": "/games/tglsc/applications/content/merge-round-racers/"
+    },
+    {
+      "name": "Ragdoll Archers",
+      "cover": "/games/tglsc/img/applications-img/ragdoll-archers.png",
+      "url": "/games/tglsc/applications/content/ragdoll-archers/"
+    },
+    {
+      "name": "Grow A Garden Single Player",
+      "cover": "/games/tglsc/img/applications-img/growagarden-single.png",
+      "url": "/games/tglsc/applications/content/growagarden-single/"
+    },
+    {
+      "name": "Rallypoint",
+      "cover": "/games/tglsc/img/applications-img/rallypoint.png",
+      "url": "/games/tglsc/applications/content/rallypoint/"
+    },
+    {
+      "name": "Nova Craft",
+      "cover": "/games/tglsc/img/applications-img/novacraft.png",
+      "url": "/games/tglsc/applications/content/novacraft/"
+    },
+    {
+      "name": "Burrito Bison",
+      "cover": "/games/tglsc/img/applications-img/burrito-bison.png",
+      "url": "/games/tglsc/applications/content/burrito-bison/"
+    },
+    {
+      "name": "Wobbly Boxing",
+      "cover": "/games/tglsc/img/applications-img/wobbly-boxing.png",
+      "url": "/games/tglsc/applications/content/wobbly-boxing/"
+    },
+    {
+      "name": "Fortnite",
+      "cover": "/games/tglsc/img/applications-img/fortnite.png",
+      "url": "/games/tglsc/https://glseries.net/embed.html#https://play.geforcenow.com/"
+    },
+    {
+      "name": "Bee Swarm Simulator",
+      "cover": "/games/tglsc/img/applications-img/bee-swarm-simulator.png",
+      "url": "/games/tglsc/applications/content/bee-swarm-simulator/"
+    },
+    {
+      "name": "Roblox",
+      "cover": "/games/tglsc/img/applications-img/roblox.png",
+      "url": "/games/tglsc/https://glseries.net/embed.html#https://nowgg.fun/apps/a/19900/b.html/"
+    },
+    {
+      "name": "Retro Garage",
+      "cover": "/games/tglsc/img/applications-img/retro-garage.png",
+      "url": "/games/tglsc/applications/content/retro-garage/"
+    },
+    {
+      "name": "CarX Drift",
+      "cover": "/games/tglsc/img/applications-img/carx-drift.png",
+      "url": "/games/tglsc/applications/content/carx-drift/"
+    },
+    {
+      "name": "Drive Zone",
+      "cover": "/games/tglsc/img/applications-img/drive-zone.png",
+      "url": "/games/tglsc/applications/content/drive-zone/"
+    },
+    {
+      "name": "RaceMax",
+      "cover": "/games/tglsc/img/applications-img/racemax.png",
+      "url": "/games/tglsc/applications/content/racemax/"
+    },
+    {
+      "name": "Cool Cars Highway",
+      "cover": "/games/tglsc/img/applications-img/cool-cars-highway.png",
+      "url": "/games/tglsc/applications/content/cool-cars-highway/"
+    },
+    {
+      "name": "Crazy City Racing",
+      "cover": "/games/tglsc/img/applications-img/crazy-city-racing.png",
+      "url": "/games/tglsc/applications/content/crazy-city-racing/"
+    },
+    {
+      "name": "Dream Car",
+      "cover": "/games/tglsc/img/applications-img/dream-car.png",
+      "url": "/games/tglsc/applications/content/dreamcar/"
+    },
+    {
+      "name": "Among Rescue",
+      "cover": "/games/tglsc/img/applications-img/among-rescue.png",
+      "url": "/games/tglsc/applications/content/among-rescue/"
+    },
+    {
+      "name": "Pixel Speedrun",
+      "cover": "/games/tglsc/img/applications-img/pixel-speedrun.png",
+      "url": "/games/tglsc/applications/content/pixel-speedrun/"
+    },
+    {
+      "name": "Traffic Racer",
+      "cover": "/games/tglsc/img/applications-img/traffic-racer.png",
+      "url": "/games/tglsc/applications/content/traffic-racer-release2/"
+    },
+    {
+      "name": "Super Crew",
+      "cover": "/games/tglsc/img/applications-img/super-crew.png",
+      "url": "/games/tglsc/applications/content/super-crew/"
+    },
+    {
+      "name": "BLOODMONEY!",
+      "cover": "/games/tglsc/img/applications-img/bloodmoney.png",
+      "url": "/games/tglsc/applications/content/bloodmoney/"
+    },
+    {
+      "name": "Mello",
+      "cover": "/games/tglsc/img/applications-img/mello.png",
+      "url": "/games/tglsc/applications/content/mello/"
+    },
+    {
+      "name": "Scary Teacher 3D",
+      "cover": "/games/tglsc/img/applications-img/scary-teacher-3d.png",
+      "url": "/games/tglsc/applications/content/scary-teacher-3d/"
+    },
+    {
+      "name": "Midnight Drive",
+      "cover": "/games/tglsc/img/applications-img/midnight-drive.png",
+      "url": "/games/tglsc/applications/content/midnight-drive/"
+    },
+    {
+      "name": "Snow Plow",
+      "cover": "/games/tglsc/img/applications-img/snow-plow.png",
+      "url": "/games/tglsc/applications/content/snow-plow/"
+    },
+    {
+      "name": "Harvest Simulator",
+      "cover": "/games/tglsc/img/applications-img/harvest-simulator.png",
+      "url": "/games/tglsc/applications/content/harvest-simulator/"
+    },
+    {
+      "name": "xx142-b2.exe",
+      "cover": "/games/tglsc/img/applications-img/xx142-b2.exe.png",
+      "url": "/games/tglsc/applications/content/xx142-b2.exe/"
+    },
+    {
+      "name": "Tanuki Sunset",
+      "cover": "/games/tglsc/img/applications-img/tanuki-sunset.png",
+      "url": "/games/tglsc/applications/content/tanuki-sunset/"
+    },
+    {
+      "name": "Yandere Simulator",
+      "cover": "/games/tglsc/img/applications-img/yandere-simulator.png",
+      "url": "/games/tglsc/applications/content/yandere-simulator/"
+    },
+    {
+      "name": "Baldi's Basics",
+      "cover": "/games/tglsc/img/applications-img/baldis-basics.png",
+      "url": "/games/tglsc/applications/content/baldis-basics/"
+    },
+    {
+      "name": "TiC.",
+      "cover": "/games/tglsc/img/applications-img/tic.png",
+      "url": "/games/tglsc/applications/content/tictactoe/"
+    },
+    {
+      "name": "Bodycam",
+      "cover": "/games/tglsc/img/applications-img/bodycam.png",
+      "url": "/games/tglsc/applications/content/bodycam/"
+    },
+    {
+      "name": "Drift Zero",
+      "cover": "/games/tglsc/img/applications-img/drift-zero.png",
+      "url": "/games/tglsc/applications/content/drift-zero/"
+    },
+    {
+      "name": "DriveOff",
+      "cover": "/games/tglsc/img/applications-img/driveoff.png",
+      "url": "/games/tglsc/applications/content/driveoff/"
+    },
+    {
+      "name": "Escape Road",
+      "cover": "/games/tglsc/img/applications-img/escape-road.png",
+      "url": "/games/tglsc/applications/content/escape-road/"
+    },
+    {
+      "name": "Escape Road 2",
+      "cover": "/games/tglsc/img/applications-img/escape-road-2.png",
+      "url": "/games/tglsc/applications/content/escape-road-2/"
+    },
+    {
+      "name": "Horror Tale",
+      "cover": "/games/tglsc/img/applications-img/horror-tale.png",
+      "url": "/games/tglsc/applications/content/horror-tale/"
+    },
+    {
+      "name": "Horror Tale 2: Samantha",
+      "cover": "/games/tglsc/img/applications-img/horror-tale-2.png",
+      "url": "/games/tglsc/applications/content/horror-tale-2/"
+    },
+    {
+      "name": "Horror Tale 3: The Witch",
+      "cover": "/games/tglsc/img/applications-img/horror-tale-3.png",
+      "url": "/games/tglsc/applications/content/horror-tale-3/"
+    },
+    {
+      "name": "Merge & Construct",
+      "cover": "/games/tglsc/img/applications-img/merge-construct.png",
+      "url": "/games/tglsc/applications/content/merge-construct/"
+    },
+    {
+      "name": "Snow Rider 3D",
+      "cover": "/games/tglsc/img/applications-img/snow-rider-3d.png",
+      "url": "/games/tglsc/applications/content/snow-rider-3d/"
+    },
+    {
+      "name": "Feral Frontier",
+      "cover": "/games/tglsc/img/applications-img/feral-frontier.png",
+      "url": "/games/tglsc/applications/content/feral-frontier/"
+    },
+    {
+      "name": "Bridge Constructor",
+      "cover": "/games/tglsc/img/applications-img/bridge-constructor.png",
+      "url": "/games/tglsc/applications/content/bridge-constructor/"
+    },
+    {
+      "name": "Criminalz",
+      "cover": "/games/tglsc/img/applications-img/criminalz.png",
+      "url": "/games/tglsc/applications/content/criminalz/"
+    },
+    {
+      "name": "Decks of Dexterity",
+      "cover": "/games/tglsc/img/applications-img/decks-of-dexterity.png",
+      "url": "/games/tglsc/applications/content/decks-of-dexterity/"
+    },
+    {
+      "name": "Alternate World",
+      "cover": "/games/tglsc/img/applications-img/alternate-world.png",
+      "url": "/games/tglsc/applications/content/alternate-world/"
+    },
+    {
+      "name": "Havendock",
+      "cover": "/games/tglsc/img/applications-img/havendock.png",
+      "url": "/games/tglsc/applications/content/havendock/"
+    },
+    {
+      "name": "4WD Only Up!",
+      "cover": "/games/tglsc/img/applications-img/4wd-only-up.png",
+      "url": "/games/tglsc/applications/content/4wd-only-up/"
+    },
+    {
+      "name": "Will it Crush?",
+      "cover": "/games/tglsc/img/applications-img/will-it-crush.png",
+      "url": "/games/tglsc/applications/content/will-it-crush/"
+    },
+    {
+      "name": "Grid Architect: GPU Tycoon",
+      "cover": "/games/tglsc/img/applications-img/grid-architect.png",
+      "url": "/games/tglsc/applications/content/grid-architect/"
+    },
+    {
+      "name": "The Long Drive",
+      "cover": "/games/tglsc/img/applications-img/the-long-drive.png",
+      "url": "/games/tglsc/applications/content/the-long-drive/"
+    },
+    {
+      "name": "Boxes & Mechanisms",
+      "cover": "/games/tglsc/img/applications-img/boxes-and-mechanisms.png",
+      "url": "/games/tglsc/applications/content/boxes-and-mechanisms/"
+    },
+    {
+      "name": "Kiosk",
+      "cover": "/games/tglsc/img/applications-img/kiosk.png",
+      "url": "/games/tglsc/applications/content/kiosk/"
+    },
+    {
+      "name": "Raftopia",
+      "cover": "/games/tglsc/img/applications-img/raftopia.png",
+      "url": "/games/tglsc/applications/content/raftopia/"
+    },
+    {
+      "name": "Sky Balance",
+      "cover": "/games/tglsc/img/applications-img/sky-balance.png",
+      "url": "/games/tglsc/applications/content/sky-balance/"
+    },
+    {
+      "name": "Find The Pets",
+      "cover": "/games/tglsc/img/applications-img/find-the-pets.png",
+      "url": "/games/tglsc/applications/content/find-the-pets/"
+    },
+    {
+      "name": "Racing Limits",
+      "cover": "/games/tglsc/img/applications-img/racing-limits.png",
+      "url": "/games/tglsc/applications/content/racing-limits/"
+    },
+    {
+      "name": "Tiny Towers",
+      "cover": "/games/tglsc/img/applications-img/tiny-towers.png",
+      "url": "/games/tglsc/applications/content/tiny-towers/"
+    },
+    {
+      "name": "Fullspeed Racing",
+      "cover": "/games/tglsc/img/applications-img/fullspeed-racing.png",
+      "url": "/games/tglsc/applications/content/fullspeed-racing/"
+    },
+    {
+      "name": "Townscaper",
+      "cover": "/games/tglsc/img/applications-img/townscaper.png",
+      "url": "/games/tglsc/applications/content/townscaper/"
+    },
+    {
+      "name": "WebGL Fluid",
+      "cover": "/games/tglsc/img/applications-img/webgl-fluid.png",
+      "url": "/games/tglsc/applications/content/webgl-fluid/"
+    },
+    {
+      "name": "WebGL Water",
+      "cover": "/games/tglsc/img/applications-img/webgl-water.png",
+      "url": "/games/tglsc/applications/content/webgl-water/"
+    },
+    {
+      "name": "Little Alchemy 2",
+      "cover": "/games/tglsc/img/applications-img/little-alchemy-2.png",
+      "url": "/games/tglsc/applications/content/little-alchemy-2/"
+    },
+    {
+      "name": "Aviasali",
+      "cover": "/games/tglsc/img/applications-img/aviasali.png",
+      "url": "/games/tglsc/applications/content/aviasali/"
+    },
+    {
+      "name": "Space Waves",
+      "cover": "/games/tglsc/img/applications-img/space-waves.png",
+      "url": "/games/tglsc/applications/content/space-waves/"
+    },
+    {
+      "name": "Spy Highway",
+      "cover": "/games/tglsc/img/applications-img/spy-highway.png",
+      "url": "/games/tglsc/applications/content/spy-highway/"
+    },
+    {
+      "name": "Fly for Fly",
+      "cover": "/games/tglsc/img/applications-img/fly-for-fly.png",
+      "url": "/games/tglsc/applications/content/fly-for-fly/"
+    },
+    {
+      "name": "Kick The Buddy",
+      "cover": "/games/tglsc/img/applications-img/kick-the-buddy.png",
+      "url": "/games/tglsc/applications/content/kick-the-buddy/"
+    },
+    {
+      "name": "TGLSC HTML Editor",
+      "cover": "/games/tglsc/img/essential/editor.ico",
+      "url": "/games/tglsc/https://glseries.net/editor/"
+    },
+    {
+      "name": "TGLSC Python Editor",
+      "cover": "/games/tglsc/img/essential/python.ico",
+      "url": "/games/tglsc/applications/content/python/"
+    },
+    {
+      "name": "TGLSC Base64",
+      "cover": "/games/tglsc/img/essential/base64.ico",
+      "url": "/games/tglsc/applications/content/base64/"
+    },
+    {
+      "name": "TGLSC Word Counter",
+      "cover": "/games/tglsc/img/essential/counter.ico",
+      "url": "/games/tglsc/applications/content/counter/"
+    },
+    {
+      "name": "TGLSC Imports",
+      "cover": "/games/tglsc/img/essential/icon.ico",
+      "url": "/games/tglsc/applications/content/import-editor/"
+    },
+    {
+      "name": "DownGit",
+      "cover": "/games/tglsc/img/apps-img/downgit.png",
+      "url": "/games/tglsc/applications/content/downgit/"
+    },
+    {
+      "name": "GL-GPT 3",
+      "cover": "/games/tglsc/img/apps-img/gl-gpt-3.png",
+      "url": "/games/tglsc/applications/content/gl-gpt-3/"
+    },
+    {
+      "name": "Drawerz! +",
+      "cover": "/games/tglsc/img/apps-img/drawerz.png",
+      "url": "/games/tglsc/applications/content/drawerz/"
+    },
+    {
+      "name": "Spinning Rat",
+      "cover": "/games/tglsc/img/apps-img/spinning-rat.png",
+      "url": "/games/tglsc/applications/content/spinning-rat/"
+    },
+    {
+      "name": "Talking Ben",
+      "cover": "/games/tglsc/img/apps-img/talking-ben.png",
+      "url": "/games/tglsc/applications/content/talking-ben/"
+    },
+    {
+      "name": "Robux Giver 4020",
+      "cover": "/games/tglsc/img/apps-img/lagger-4020.png",
+      "url": "/games/tglsc/applications/content/lagger-4020/"
+    }
+  ]

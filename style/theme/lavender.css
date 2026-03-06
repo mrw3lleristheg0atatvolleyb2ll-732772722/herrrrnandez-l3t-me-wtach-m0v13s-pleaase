@@ -1,0 +1,17 @@
+:root {
+  --bg: #13111c;
+  --secondary-bg: #262135;
+  --third-bg: #3b3352;
+  --fourth-bg: #0f0d16;
+  --primary: #dcd6f7;
+  --secondary: #a69cac;
+  --text-color: #f4f1f8;
+  --secondary-text-color: #dcd6f7;
+  --button-bg: #262135;
+  --button-hover: #3b3352;
+  --gradient-start: #b79ced;
+  --gradient-end: #94d2bd;
+  --accent: var(--primary);
+  --cb: 255, 255, 255;
+  --bc: 0, 0, 0;
+}

@@ -1,0 +1,23 @@
+@import url("https://cdn.jsdelivr.net/npm/remixicon@4.7.0/fonts/remixicon.css");
+@import url("https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Sansation:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&display=swap");
+
+:root {
+  --bg: #0a111d;
+  --secondary-bg: #2b384d;
+  --third-bg: #444f60;
+  --fourth-bg: #212630;
+  --primary: #a4b8db;
+  --secondary: #7d93ba;
+  --text-color: #d5dce8;
+  --secondary-text-color: #d5dce8;
+  --button-bg: #2b384d;
+  --button-hover: #3c4a5d;
+  --gradient-start: #93e3df;
+  --gradient-end: #418ac6;
+  --accent: var(--primary);
+}
+
+* {
+  box-sizing: border-box;
+  font-family: "Inter", sans-serif;
+}

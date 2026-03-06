@@ -1,0 +1,4571 @@
+[
+    {
+      "name": "Bacon May Die",
+      "cover": "/games/selenite/baconmaydie/splash.png",
+      "url": "/games/selenite/baconmaydie/index.html"
+    },
+    {
+      "name": "Elevator Hitch",
+      "cover": "/games/selenite/elevatorhitch/icon/icon.png",
+      "url": "/games/selenite/elevatorhitch/index.html"
+    },
+    {
+      "name": "Level Devil",
+      "cover": "/games/selenite/leveldevil/TemplateData/logo.png",
+      "url": "/games/selenite/leveldevil/index.html"
+    },
+    {
+      "name": "Super Liquid Soccer",
+      "cover": "/games/selenite/superliquidsoccer/index.144x144.png",
+      "url": "/games/selenite/superliquidsoccer/index.html"
+    },
+    {
+      "name": "ABANDONED",
+      "cover": "/games/selenite/abandoned/TemplateData/logo.png",
+      "url": "/games/selenite/abandoned/index.html"
+    },
+    {
+      "name": "GTA: Vice City",
+      "cover": "/games/selenite/gtavc/256x256.png",
+      "url": "/games/selenite/gtavc/index.html",
+      "special": [
+        "steam"
+      ]
+    },
+    {
+      "name": "Gorilla Tag",
+      "cover": "/games/selenite/gorillatag/TemplateData/logo.png",
+      "url": "/games/selenite/gorillatag/index.html",
+      "special": [
+        "steam"
+      ]
+    },
+    {
+      "name": "NEEDY STREAMER OVERLOAD",
+      "cover": "/games/selenite/nso/TemplateData/logo.png",
+      "url": "/games/selenite/nso/index.html",
+      "special": [
+        "steam",
+        "top",
+        "horror",
+        "13+"
+      ]
+    },
+    {
+      "name": "The Kid at the Back",
+      "cover": "/games/selenite/tkatb/app.ico",
+      "url": "/games/selenite/tkatb/index.html"
+    },
+    {
+      "name": "osu!mania",
+      "cover": "/games/selenite/osumaniaweb/app.ico",
+      "url": "/games/selenite/osumaniaweb/index.html"
+    },
+    {
+      "name": "osu!",
+      "cover": "/games/selenite/webosu/app.ico",
+      "url": "/games/selenite/webosu/index.html"
+    },
+    {
+      "name": "Terraria",
+      "cover": "/games/selenite/terraria/app.ico",
+      "url": "/games/selenite/terraria/index.html",
+      "special": [
+        "steam",
+        "top"
+      ]
+    },
+    {
+      "name": "Ace Attorney Investigations",
+      "cover": "/games/selenite/aceattorneyinvestigations/logo.png",
+      "url": "/games/selenite/aceattorneyinvestigations/index.html"
+    },
+    {
+      "name": "Ace Attorney: Trials and Tribulations",
+      "cover": "/games/selenite/aceattorneytnt/logo.png",
+      "url": "/games/selenite/aceattorneytnt/index.html"
+    },
+    {
+      "name": "Ace Attorney: Justice for All",
+      "cover": "/games/selenite/aceattorneyjusticeforall/logo.png",
+      "url": "/games/selenite/aceattorneyjusticeforall/index.html"
+    },
+    {
+      "name": "Ace Attorney: Apollo Justice",
+      "cover": "/games/selenite/aceattorneyapollojustice/logo.png",
+      "url": "/games/selenite/aceattorneyapollojustice/index.html"
+    },
+    {
+      "name": "Deltatraveler",
+      "cover": "/games/selenite/deltatraveler/logo.jpg",
+      "url": "/games/selenite/deltatraveler/index.html"
+    },
+    {
+      "name": "Apes VS Helium",
+      "cover": "/games/selenite/apesvshelium/logo.jpg",
+      "url": "/games/selenite/apesvshelium/index.html",
+      "special": [
+        "steam"
+      ]
+    },
+    {
+      "name": "RE:RUN",
+      "cover": "/games/selenite/rerun/logo.jpg",
+      "url": "/games/selenite/rerun/index.html",
+      "special": [
+        "steam"
+      ]
+    },
+    {
+      "name": "Raft",
+      "cover": "/games/selenite/raft/logo.jpg",
+      "url": "/games/selenite/raft/index.html",
+      "special": [
+        "steam"
+      ]
+    },
+    {
+      "name": "Solar Smash",
+      "cover": "/games/selenite/solar-smash/logo.jpg",
+      "url": "/games/selenite/solar-smash/index.html"
+    },
+    {
+      "name": "Pizza Tower: Scoutdingo",
+      "cover": "/games/selenite/pizzatowerscoutdingo/favicon.png",
+      "url": "/games/selenite/pizzatowerscoutdingo/index.html",
+      "special": [
+        "steam"
+      ]
+    },
+    {
+      "name": "Oneshot",
+      "cover": "/games/selenite/oneshot/images/load/niko-oneshot.gif",
+      "url": "/games/selenite/oneshot/index.html",
+      "special": [
+        "steam"
+      ]
+    },
+    {
+      "name": "Duck Life 8",
+      "cover": "/games/selenite/ducklife8/logo.jpg",
+      "url": "/games/selenite/ducklife8/index.html",
+      "special": [
+        "steam"
+      ]
+    },
+    {
+      "name": "Customer Support",
+      "cover": "/games/selenite/customersupport/logo.jpg",
+      "url": "/games/selenite/customersupport/index.html",
+      "special": [
+        "steam",
+        "horror"
+      ]
+    },
+    {
+      "name": "Celeste",
+      "cover": "/games/selenite/celestefull/logo.jpg",
+      "url": "/games/selenite/celestefull/index.html",
+      "special": [
+        "steam"
+      ]
+    },
+    {
+      "name": "Baldurs Gate 2",
+      "cover": "/games/selenite/baldurs-gate-2/logo.jpg",
+      "url": "/games/selenite/baldurs-gate-2/index.html"
+    },
+    {
+      "name": "Block Blast",
+      "cover": "/games/selenite/blockblast/logo.jpg",
+      "url": "/games/selenite/blockblast/index.html"
+    },
+    {
+      "name": "Fears to Fathom: Home Alone",
+      "cover": "/games/selenite/fearstofathom/logo.jpg",
+      "url": "/games/selenite/fearstofathom/index.html"
+    },
+    {
+      "name": "Famidash D-Sides (Geometry Dash)",
+      "cover": "/games/selenite/famidashdsides/logo.jpg",
+      "url": "/games/selenite/famidashdsides/index.html"
+    },
+    {
+      "name": "Famidash C-Sides (Geometry Dash)",
+      "cover": "/games/selenite/famidashcsides/logo.jpg",
+      "url": "/games/selenite/famidashcsides/index.html"
+    },
+    {
+      "name": "Famidash B-Sides (Geometry Dash)",
+      "cover": "/games/selenite/famidashbsides/logo.jpg",
+      "url": "/games/selenite/famidashbsides/index.html"
+    },
+    {
+      "name": "Famidash (Geometry Dash)",
+      "cover": "/games/selenite/famidash/logo.jpg",
+      "url": "/games/selenite/famidash/index.html"
+    },
+    {
+      "name": "Portal",
+      "cover": "/games/selenite/portal/portal.jpeg",
+      "url": "/games/selenite/portal/index.html"
+    },
+    {
+      "name": "Granny 3",
+      "cover": "/games/selenite/granny3/logo.jpg",
+      "url": "/games/selenite/granny3/index.html"
+    },
+    {
+      "name": "Granny 2",
+      "cover": "/games/selenite/granny2/logo.jpg",
+      "url": "/games/selenite/granny2/index.html"
+    },
+    {
+      "name": "Granny",
+      "cover": "/games/selenite/granny1/logo.jpg",
+      "url": "/games/selenite/granny1/index.html"
+    },
+    {
+      "name": "Black Navy War 2",
+      "cover": "/games/selenite/blacknavywar2/logo.jpg",
+      "url": "/games/selenite/blacknavywar2/index.html"
+    },
+    {
+      "name": "They Are Coming",
+      "cover": "/games/selenite/theyarecoming/theyarecoming.webp",
+      "url": "/games/selenite/theyarecoming/index.html"
+    },
+    {
+      "name": "Schoolboy Runaway",
+      "cover": "/games/selenite/schoolboyrunaway/schoolboyrunaway.webp",
+      "url": "/games/selenite/schoolboyrunaway/index.html"
+    },
+    {
+      "name": "Pokemon Yellow",
+      "cover": "/games/selenite/pokemonyellow/pokemon-yellow---button-1558057648010.webp",
+      "url": "/games/selenite/pokemonyellow/index.html"
+    },
+    {
+      "name": "Pokemon Unbound",
+      "cover": "/games/selenite/pokemonunbound/pokemon-unbound.jpg",
+      "url": "/games/selenite/pokemonunbound/index.html"
+    },
+    {
+      "name": "Pokemon Stadium",
+      "cover": "/games/selenite/pokemonstadium/pokemonstadium.jpeg",
+      "url": "/games/selenite/pokemonstadium/index.html"
+    },
+    {
+      "name": "Pokemon Soul Silver",
+      "cover": "/games/selenite/pokemonsoulsilver/pokemon-soulsilver-version_cmaq.600.webp",
+      "url": "/games/selenite/pokemonsoulsilver/index.html"
+    },
+    {
+      "name": "Pokemon Snap",
+      "cover": "/games/selenite/pokemonsnap/pokemonsnap.jpeg",
+      "url": "/games/selenite/pokemonsnap/index.html"
+    },
+    {
+      "name": "Pokemon Silver",
+      "cover": "/games/selenite/pokemonsilver/pokemon-silver---button-1558057647925.jpg",
+      "url": "/games/selenite/pokemonsilver/index.html"
+    },
+    {
+      "name": "Pokemon Sapphire",
+      "cover": "/games/selenite/pokemonsapphire/pokemonsapphire.jpg",
+      "url": "/games/selenite/pokemonsapphire/index.html"
+    },
+    {
+      "name": "Pokemon Ruby",
+      "cover": "/games/selenite/pokemonruby/pokemonruby.jpeg",
+      "url": "/games/selenite/pokemonruby/index.html"
+    },
+    {
+      "name": "Pokemon Red",
+      "cover": "/games/selenite/pokemonred/pokemonred.jpg",
+      "url": "/games/selenite/pokemonred/index.html"
+    },
+    {
+      "name": "Pokemon Platinum",
+      "cover": "/games/selenite/pokemonplatinum/pokemonplatinum.jpeg",
+      "url": "/games/selenite/pokemonplatinum/index.html"
+    },
+    {
+      "name": "Pokemon Mystery Dungeon",
+      "cover": "/games/selenite/pokemonmysterydungeon/pokemonmysterydungeon.png",
+      "url": "/games/selenite/pokemonmysterydungeon/index.html"
+    },
+    {
+      "name": "Pokemon Diamond",
+      "cover": "/games/selenite/pokemondiamond/logo.avif",
+      "url": "/games/selenite/pokemondiamond/index.html"
+    },
+    {
+      "name": "Pokemon LeafGreen",
+      "cover": "/games/selenite/pokemonleafgreen/leafgreen.jpeg",
+      "url": "/games/selenite/pokemonleafgreen/index.html"
+    },
+    {
+      "name": "Pokemon Gold",
+      "cover": "/games/selenite/pokemongold/pokemongold.jpg",
+      "url": "/games/selenite/pokemongold/index.html"
+    },
+    {
+      "name": "Pokemon FireRed",
+      "cover": "/games/selenite/pokemonfirered/pokemonfirered.jpg",
+      "url": "/games/selenite/pokemonfirered/index.html"
+    },
+    {
+      "name": "Pokemon Emerald",
+      "cover": "/games/selenite/pokemonemerald/pokemonemerald-sq-1644346782465.webp",
+      "url": "/games/selenite/pokemonemerald/index.html"
+    },
+    {
+      "name": "Pokemon Crystal",
+      "cover": "/games/selenite/pokemoncrystal/pokemoncrystal-1639519080473.webp",
+      "url": "/games/selenite/pokemoncrystal/index.html"
+    },
+    {
+      "name": "Pokemon Blue",
+      "cover": "/games/selenite/pokemonblue/pokemonblue.jpg",
+      "url": "/games/selenite/pokemonblue/index.html"
+    },
+    {
+      "name": "wipEout",
+      "cover": "/games/selenite/wipegame/cover.webp",
+      "url": "/games/selenite/wipegame/index.html"
+    },
+    {
+      "name": "Traffic Jam 3D",
+      "cover": "/games/selenite/trafficjam3d/cover.jpeg",
+      "url": "/games/selenite/trafficjam3d/index.html"
+    },
+    {
+      "name": "Tanuki Sunset",
+      "cover": "/games/selenite/tanukisunset/cover.jpeg",
+      "url": "/games/selenite/tanukisunset/index.html"
+    },
+    {
+      "name": "Super Smash Flash 2",
+      "cover": "/games/selenite/supersmashflash2/cover.jpg",
+      "url": "/games/selenite/supersmashflash2/index.html"
+    },
+    {
+      "name": "Stick War",
+      "cover": "/games/selenite/stickwar/cover.jpeg",
+      "url": "/games/selenite/stickwar/index.html"
+    },
+    {
+      "name": "SONIC.EXE",
+      "cover": "/games/selenite/sonic.exe/cover.jpg",
+      "url": "/games/selenite/sonic.exe/index.html",
+      "special": [
+        "horror"
+      ]
+    },
+    {
+      "name": "Penrose",
+      "cover": "/games/selenite/penrose/assets/icons/android-icon-144x144.png",
+      "url": "/games/selenite/penrose/index.html"
+    },
+    {
+      "name": "Mortal Kombat 3",
+      "cover": "/games/selenite/mk3/cover.jpg",
+      "url": "/games/selenite/mk3/index.html"
+    },
+    {
+      "name": "Cooking Mama 2",
+      "cover": "/games/selenite/cookingmama2/cookingmama2-1669747571380.resized.jpg",
+      "url": "/games/selenite/cookingmama2/index.html"
+    },
+    {
+      "name": "Cooking Mama",
+      "cover": "/games/selenite/cookingmama/cookingmama-1652736908091.webp",
+      "url": "/games/selenite/cookingmama/index.html"
+    },
+    {
+      "name": "Cave Story",
+      "cover": "/games/selenite/cavestory/cover.webp",
+      "url": "/games/selenite/cavestory/index.html"
+    },
+    {
+      "name": "Agario Lite",
+      "cover": "/games/selenite/agariolite/cover.png",
+      "url": "/games/selenite/agariolite/index.html"
+    },
+    {
+      "name": "Achilles",
+      "cover": "/games/selenite/achilles/cover.jpg",
+      "url": "/games/selenite/achilles/index.html"
+    },
+    {
+      "name": "Jedi Knight: Dark Forces II",
+      "cover": "/games/selenite/openjkdf2/jkdf.jpeg",
+      "url": "/games/selenite/openjkdf2/index.html"
+    },
+    {
+      "name": "Super Mario Construct",
+      "cover": "/games/selenite/supermarioconstruct/icons/loading-logo.png",
+      "url": "/games/selenite/supermarioconstruct/index.html"
+    },
+    {
+      "name": "Processor Tycoon",
+      "cover": "/games/selenite/processortycoon/proctyc.png",
+      "url": "/games/selenite/processortycoon/index.html"
+    },
+    {
+      "name": "Vex X3M 2",
+      "cover": "/games/selenite/vex-x3m2/vexx3m2.jpg",
+      "url": "/games/selenite/vex-x3m2/index.html"
+    },
+    {
+      "name": "Vex X3M",
+      "cover": "/games/selenite/vex-x3m/vexx3m.jpg",
+      "url": "/games/selenite/vex-x3m/index.html"
+    },
+    {
+      "name": "Vex Challenges",
+      "cover": "/games/selenite/vex-challenges/vexchal.jpeg",
+      "url": "/games/selenite/vex-challenges/index.html"
+    },
+    {
+      "name": "Plants vs. Zombies 2: Gardenless",
+      "cover": "/games/selenite/pvzge/pvz.png",
+      "url": "/games/selenite/pvzge/index.html"
+    },
+    {
+      "name": "Moto X3M 3",
+      "cover": "/games/selenite/motox3m3/moto-x3m3.avif",
+      "url": "/games/selenite/motox3m3/index.html"
+    },
+    {
+      "name": "Idle Dice",
+      "cover": "/games/selenite/idledice/assets/img/smallicon/smallIcon72.png",
+      "url": "/games/selenite/idledice/index.html"
+    },
+    {
+      "name": "Jackpot Crash Course",
+      "cover": "/games/selenite/jackpot-crash-course/rip.png",
+      "url": "/games/selenite/jackpot-crash-course/index.html",
+      "special": [
+        "gore",
+        "13+",
+        "horror"
+      ]
+    },
+    {
+      "name": "MY BOYFRIEND",
+      "cover": "/games/selenite/myboyfriend/cover.png",
+      "url": "/games/selenite/myboyfriend/index.html",
+      "special": [
+        "gore",
+        "13+",
+        "horror"
+      ]
+    },
+    {
+      "name": "Rot In Paradise",
+      "cover": "/games/selenite/rotinparadise/rip.png",
+      "url": "/games/selenite/rotinparadise/index.html",
+      "special": [
+        "steam",
+        "horror"
+      ]
+    },
+    {
+      "name": "Married In Red",
+      "cover": "/games/selenite/marriedinred/mir.png",
+      "url": "/games/selenite/marriedinred/index.html",
+      "special": [
+        "steam",
+        "horror"
+      ]
+    },
+    {
+      "name": "BFB 5B",
+      "cover": "/games/selenite/bfb5b/bfb5b.jpg",
+      "url": "/games/selenite/bfb5b/index.html"
+    },
+    {
+      "name": "Vex 8",
+      "cover": "/games/selenite/vex-8/v8.jpeg",
+      "url": "/games/selenite/vex-8/index.html"
+    },
+    {
+      "name": "Indian Truck Driving Simulator",
+      "cover": "/games/selenite/indian-truck/itds.png",
+      "url": "/games/selenite/indian-truck/index.html"
+    },
+    {
+      "name": "Mad Shark",
+      "cover": "/games/selenite/mad-shark/ms.jpg",
+      "url": "/games/selenite/mad-shark/index.html"
+    },
+    {
+      "name": "Moto X3M 2",
+      "cover": "/games/selenite/motox3m2/motox3m2.png",
+      "url": "/games/selenite/motox3m2/index.html"
+    },
+    {
+      "name": "Balatro",
+      "cover": "/games/selenite/balatro/b.png",
+      "url": "/games/selenite/balatro/index.html",
+      "special": [
+        "steam"
+      ]
+    },
+    {
+      "name": "Minesweeper Plus",
+      "cover": "/games/selenite/minesweeperplus/mp.jpeg",
+      "url": "/games/selenite/minesweeperplus/index.html",
+      "special": [
+        "steam"
+      ]
+    },
+    {
+      "name": "Tattletail",
+      "cover": "/games/selenite/tattletail/tattletail.jpg",
+      "url": "/games/selenite/tattletail/index.html",
+      "special": [
+        "steam",
+        "horror"
+      ]
+    },
+    {
+      "name": "Succubox",
+      "cover": "/games/selenite/succubox/succubox.ico",
+      "url": "/games/selenite/succubox/index.html"
+    },
+    {
+      "name": "Punch-Out!!",
+      "cover": "/games/selenite/punchout/punchout.jpg",
+      "url": "/games/selenite/punchout/index.html"
+    },
+    {
+      "name": "PaRappa the Rapper",
+      "cover": "/games/selenite/parappatherapper/ptr.jpeg",
+      "url": "/games/selenite/parappatherapper/index.html"
+    },
+    {
+      "name": "Legend of Zelda",
+      "cover": "/games/selenite/legendofzelda/loz.jpg",
+      "url": "/games/selenite/legendofzelda/index.html"
+    },
+    {
+      "name": "The Impossible Quiz 2",
+      "cover": "/games/selenite/theimpossiblequiz2/the-impossible-quiz-2.avif",
+      "url": "/games/selenite/theimpossiblequiz2/index.html"
+    },
+    {
+      "name": "Tanks",
+      "cover": "/games/selenite/tanks/logo.jpeg",
+      "url": "/games/selenite/tanks/index.html"
+    },
+    {
+      "name": "Super Mario Flash 2",
+      "cover": "/games/selenite/supermarioflash2/smf2.jpg",
+      "url": "/games/selenite/supermarioflash2/index.html"
+    },
+    {
+      "name": "Super Mario Flash",
+      "cover": "/games/selenite/supermarioflash/smf.png",
+      "url": "/games/selenite/supermarioflash/index.html"
+    },
+    {
+      "name": "Stick RPG",
+      "cover": "/games/selenite/stickrpg/srpg.webp",
+      "url": "/games/selenite/stickrpg/index.html"
+    },
+    {
+      "name": "Red Ball 2",
+      "cover": "/games/selenite/redball2/rb2.png",
+      "url": "/games/selenite/redball2/index.html"
+    },
+    {
+      "name": "Portal 2D",
+      "cover": "/games/selenite/portal2d/p2d.jpg",
+      "url": "/games/selenite/portal2d/index.html"
+    },
+    {
+      "name": "Interactive Buddy",
+      "cover": "/games/selenite/interactivebuddy/ib.jpeg",
+      "url": "/games/selenite/interactivebuddy/index.html"
+    },
+    {
+      "name": "Fancy Pants Adventures 3",
+      "cover": "/games/selenite/fancypantsadventure3/fp3.avif",
+      "url": "/games/selenite/fancypantsadventure3/index.html"
+    },
+    {
+      "name": "Factory Balls 4",
+      "cover": "/games/selenite/factoryballs4/fb4.png",
+      "url": "/games/selenite/factoryballs4/index.html"
+    },
+    {
+      "name": "Factory Balls 3",
+      "cover": "/games/selenite/factoryballs3/fb3.jpg",
+      "url": "/games/selenite/factoryballs3/index.html"
+    },
+    {
+      "name": "Factory Balls 2",
+      "cover": "/games/selenite/factoryballs2/fb2.png",
+      "url": "/games/selenite/factoryballs2/index.html"
+    },
+    {
+      "name": "Earn to Die 2",
+      "cover": "/games/selenite/earntodie2/image.png",
+      "url": "/games/selenite/earntodie2/index.html"
+    },
+    {
+      "name": "American Racing 2",
+      "cover": "/games/selenite/americanracing2/images.jpeg",
+      "url": "/games/selenite/americanracing2/index.html"
+    },
+    {
+      "name": "American Racing",
+      "cover": "/games/selenite/americanracing1/american-racing.jpg",
+      "url": "/games/selenite/americanracing1/index.html"
+    },
+    {
+      "name": "Achievement Unlocked 3",
+      "cover": "/games/selenite/achievementunlocked3/cover.png",
+      "url": "/games/selenite/achievementunlocked3/index.html"
+    },
+    {
+      "name": "Conway's Game Of Life",
+      "cover": "/games/selenite/life/logo.jpg",
+      "url": "/games/selenite/life/index.html"
+    },
+    {
+      "name": "Getting Over It",
+      "cover": "/games/selenite/getting-over-it/goi.jpg",
+      "url": "/games/selenite/getting-over-it/index.html",
+      "special": [
+        "steam"
+      ]
+    },
+    {
+      "name": "Milk inside a bag of milk inside a bag of milk",
+      "cover": "/games/selenite/miabomiabom/logo.webp",
+      "url": "/games/selenite/miabomiabom/index.html",
+      "special": [
+        "steam"
+      ]
+    },
+    {
+      "name": "Milk outside a bag of milk outside a bag of milk",
+      "cover": "/games/selenite/moabomoabom/logo.webp",
+      "url": "/games/selenite/moabomoabom/index.html",
+      "special": [
+        "steam"
+      ]
+    },
+    {
+      "name": "Jelly Drift",
+      "cover": "/games/selenite/jelly-drift/jd.png",
+      "url": "/games/selenite/jelly-drift/index.html",
+      "special": [
+        "steam"
+      ]
+    },
+    {
+      "name": "Taisei Project",
+      "cover": "/games/selenite/talsei/scythe.webp",
+      "url": "/games/selenite/talsei/index.html"
+    },
+    {
+      "name": "Factorish",
+      "cover": "/games/selenite/factorish/image.png",
+      "url": "/games/selenite/factorish/index.html"
+    },
+    {
+      "name": "Football Bros",
+      "cover": "/games/selenite/footballbros/assets/favicon.png",
+      "url": "/games/selenite/footballbros/index.html"
+    },
+    {
+      "name": "Love Angel Syndrome",
+      "cover": "/games/selenite/loveangelsyndrome/las.jpeg",
+      "url": "/games/selenite/loveangelsyndrome/index.html",
+      "special": [
+        "steam",
+        "13+",
+        "horror"
+      ]
+    },
+    {
+      "name": "Tower Game",
+      "cover": "/games/selenite/tower-game/assets/block-rope.png",
+      "url": "/games/selenite/tower-game/index.html"
+    },
+    {
+      "name": "UNDERRUN",
+      "cover": "/games/selenite/underrun/logo.png",
+      "url": "/games/selenite/underrun/index.html"
+    },
+    {
+      "name": "Yandere Simulator",
+      "cover": "/games/selenite/yandere-simulator/logo.png",
+      "url": "/games/selenite/yandere-simulator/index.html",
+      "special": [
+        "steam",
+        "18+",
+        "gore",
+        "top"
+      ]
+    },
+    {
+      "name": "Stack Bounce",
+      "cover": "/games/selenite/stackbounce/sb.jpeg",
+      "url": "/games/selenite/stackbounce/index.html"
+    },
+    {
+      "name": "Learn to Fly 3",
+      "cover": "/games/selenite/fly3/cover.png",
+      "url": "/games/selenite/fly3/index.html"
+    },
+    {
+      "name": "Papers, Please",
+      "cover": "/games/selenite/papersplease/logo.png",
+      "url": "/games/selenite/papersplease/index.html"
+    },
+    {
+      "name": "Ballistic Chickens",
+      "cover": "/games/selenite/ballisticchickens/logo.png",
+      "url": "/games/selenite/ballisticchickens/index.html"
+    },
+    {
+      "name": "FIRST KISS AT A SPOOKY SOIREE",
+      "cover": "/games/selenite/spookysoiree/fkaass.png",
+      "url": "/games/selenite/spookysoiree/index.html"
+    },
+    {
+      "name": "BIOTOMATA",
+      "cover": "/games/selenite/biotomata/favicon.ico",
+      "url": "/games/selenite/biotomata/index.html"
+    },
+    {
+      "name": "Lo-Fi Room",
+      "cover": "/games/selenite/lofi-room/lfr.jpeg",
+      "url": "/games/selenite/lofi-room/index.html"
+    },
+    {
+      "name": "Basketball FRVR",
+      "cover": "/games/selenite/basketball-frvr/unnamed.png",
+      "url": "/games/selenite/basketball-frvr/index.html"
+    },
+    {
+      "name": "Bridge Race",
+      "cover": "/games/selenite/bridge-race/unnamed (1).png",
+      "url": "/games/selenite/bridge-race/index.html"
+    },
+    {
+      "name": "NGU Idle",
+      "cover": "/games/selenite/nguidle/nguidle.png",
+      "url": "/games/selenite/nguidle/index.html"
+    },
+    {
+      "name": "Cold Front",
+      "cover": "/games/selenite/coldfront/img/weather/snow.png",
+      "url": "/games/selenite/coldfront/index.html",
+      "special": [
+        "13+",
+        "horror"
+      ]
+    },
+    {
+      "name": "Slime Rancher",
+      "cover": "/games/selenite/jellyrancher/TemplateData/progressLogo.Dark.png",
+      "url": "/games/selenite/jellyrancher/index.html",
+      "special": [
+        "steam"
+      ]
+    },
+    {
+      "name": "slowroads",
+      "cover": "/games/selenite/slowroads/icon.svg",
+      "url": "/games/selenite/slowroads/index.html"
+    },
+    {
+      "name": "Deltarune",
+      "cover": "/games/selenite/deltarune/cover.png",
+      "url": "/games/selenite/deltarune/index.html",
+      "special": [
+        "steam",
+        "top"
+      ]
+    },
+    {
+      "name": "Nazi Zombies: Portable",
+      "cover": "/games/selenite/nzp/nzportable.ico",
+      "url": "/games/selenite/nzp/index.html"
+    },
+    {
+      "name": "Rhythm Heaven",
+      "cover": "/games/selenite/rhythmheaven/rh.jpeg",
+      "url": "/games/selenite/rhythmheaven/index.html"
+    },
+    {
+      "name": "JellyTruck",
+      "cover": "/games/selenite/jellytruck/assets/truck/truck2_icon.png",
+      "url": "/games/selenite/jellytruck/index.html"
+    },
+    {
+      "name": "Friday Night Funkin: VS Tricky",
+      "cover": "/games/selenite/fnf-tricky/logo.png",
+      "url": "/games/selenite/fnf-tricky/index.html"
+    },
+    {
+      "name": "Friday Night Funkin: VS Sky",
+      "cover": "/games/selenite/fnf-sky/logo.png",
+      "url": "/games/selenite/fnf-sky/index.html"
+    },
+    {
+      "name": "Friday Night Funkin: Mid-fight Masses",
+      "cover": "/games/selenite/fnf-sarventes/logo.png",
+      "url": "/games/selenite/fnf-sarventes/index.html"
+    },
+    {
+      "name": "Friday Night Funkin: Neo",
+      "cover": "/games/selenite/fnf-neo/logo.png",
+      "url": "/games/selenite/fnf-neo/index.html"
+    },
+    {
+      "name": "Friday Night Funkin: X Miku",
+      "cover": "/games/selenite/fnf-miku/logo.png",
+      "url": "/games/selenite/fnf-miku/index.html"
+    },
+    {
+      "name": "Friday Night Funkin: Vs Hex",
+      "cover": "/games/selenite/fnf-hex/logo.png",
+      "url": "/games/selenite/fnf-hex/index.html"
+    },
+    {
+      "name": "Friday Night Funkin: B-Sides",
+      "cover": "/games/selenite/fnf-bside/logo.png",
+      "url": "/games/selenite/fnf-bside/index.html"
+    },
+    {
+      "name": "Friday Night Funkin: VS Whitty",
+      "cover": "/games/selenite/fnf-whitty/logo.png",
+      "url": "/games/selenite/fnf-whitty/index.html"
+    },
+    {
+      "name": "Amanda the Adventurer",
+      "cover": "/games/selenite/amanda-the-adventurer/logo.jpg",
+      "url": "/games/selenite/amanda-the-adventurer/index.html",
+      "special": [
+        "steam",
+        "horror",
+        "gore"
+      ]
+    },
+    {
+      "name": "Papa Louie 2",
+      "cover": "/games/selenite/papalouie2/logo.png",
+      "url": "/games/selenite/papalouie2/index.html"
+    },
+    {
+      "name": "Papa Louie 3",
+      "cover": "/games/selenite/papalouie3/logo.jpg",
+      "url": "/games/selenite/papalouie3/index.html"
+    },
+    {
+      "name": "Cactus McCoy 2",
+      "cover": "/games/selenite/cactusmccoy2/logo.jpg",
+      "url": "/games/selenite/cactusmccoy2/index.html"
+    },
+    {
+      "name": "Cactus McCoy",
+      "cover": "/games/selenite/cactusmccoy/logo.webp",
+      "url": "/games/selenite/cactusmccoy/index.html"
+    },
+    {
+      "name": "Kingsley's Customer Palooza",
+      "cover": "/games/selenite/customerpalooza/logo.jpg",
+      "url": "/games/selenite/customerpalooza/index.html"
+    },
+    {
+      "name": "Guppy Guard Express",
+      "cover": "/games/selenite/guppyguardexpress/logo.jpg",
+      "url": "/games/selenite/guppyguardexpress/index.html"
+    },
+    {
+      "name": "JackSmith",
+      "cover": "/games/selenite/jacksmith/logo.webp",
+      "url": "/games/selenite/jacksmith/index.html"
+    },
+    {
+      "name": "Steak and Jake: Midnight March",
+      "cover": "/games/selenite/midnightmarch/logo.jpg",
+      "url": "/games/selenite/midnightmarch/index.html"
+    },
+    {
+      "name": "Papa's Cupcakeria",
+      "cover": "/games/selenite/papascupcakeria/logo.jpg",
+      "url": "/games/selenite/papascupcakeria/index.html"
+    },
+    {
+      "name": "Papa Louie",
+      "cover": "/games/selenite/papalouie/logo.jpg",
+      "url": "/games/selenite/papalouie/index.html"
+    },
+    {
+      "name": "Spacebar Clicker",
+      "cover": "/games/selenite/spacebar-clicker/logo.jpg",
+      "url": "/games/selenite/spacebar-clicker/index.html"
+    },
+    {
+      "name": "OvO Dimensions",
+      "cover": "/games/selenite/ovo3/img.webp",
+      "url": "/games/selenite/ovo3/index.html"
+    },
+    {
+      "name": "OvO 2",
+      "cover": "/games/selenite/ovo2/img.webp",
+      "url": "/games/selenite/ovo2/index.html"
+    },
+    {
+      "name": "Fish Rescue",
+      "cover": "/games/selenite/fish-rescue/logo.png",
+      "url": "/games/selenite/fish-rescue/index.html"
+    },
+    {
+      "name": "Speed Stars",
+      "cover": "/games/selenite/speed-stars/logo.png",
+      "url": "/games/selenite/speed-stars/index.html"
+    },
+    {
+      "name": "Tomodachi Life",
+      "cover": "/games/selenite/tomodachilife/logo.jpg",
+      "url": "/games/selenite/tomodachilife/index.html"
+    },
+    {
+      "name": "Half Life",
+      "cover": "/games/selenite/halflife/favicon.ico",
+      "url": "/games/selenite/halflife/index.html",
+      "special": [
+        "steam",
+        "top"
+      ]
+    },
+    {
+      "name": "R.E.P.O.",
+      "cover": "/games/selenite/repo/logo.png",
+      "url": "/games/selenite/repo/index.html",
+      "special": [
+        "steam",
+        "horror"
+      ]
+    },
+    {
+      "name": "Human Expenditure Program",
+      "cover": "/games/selenite/human-expenditure-program/logo.webp",
+      "url": "/games/selenite/human-expenditure-program/index.html",
+      "special": [
+        "horror",
+        "13+",
+        "gore"
+      ]
+    },
+    {
+      "name": "Hotline Miami",
+      "cover": "/games/selenite/hotline-miami/logo.png",
+      "url": "/games/selenite/hotline-miami/index.html",
+      "special": [
+        "steam",
+        "13+",
+        "gore"
+      ]
+    },
+    {
+      "name": "The Deadseat",
+      "cover": "/games/selenite/deadseat/logo.png",
+      "url": "/games/selenite/deadseat/index.html",
+      "special": [
+        "steam",
+        "horror"
+      ]
+    },
+    {
+      "name": "Cuphead",
+      "cover": "/games/selenite/cuphead/logo.png",
+      "url": "/games/selenite/cuphead/index.html",
+      "special": [
+        "steam"
+      ]
+    },
+    {
+      "name": "Eat The Rich",
+      "cover": "/games/selenite/eattherich/logo.png",
+      "url": "/games/selenite/eattherich/index.html"
+    },
+    {
+      "name": "Buckshot Roulette",
+      "cover": "/games/selenite/buckshot-roulette/buckshot-roulette.apple-touch-icon.png",
+      "url": "/games/selenite/buckshot-roulette/index.html",
+      "special": [
+        "top",
+        "horror",
+        "13+",
+        "steam"
+      ]
+    },
+    {
+      "name": "Baldi's Basics Classic Remastered",
+      "cover": "/games/selenite/baldi-remaster/logo.png",
+      "url": "/games/selenite/baldi-remaster/index.html",
+      "special": [
+        "horror",
+        "steam"
+      ]
+    },
+    {
+      "name": "Bendy and the Ink Machine",
+      "cover": "/games/selenite/bendy/logo.png",
+      "url": "/games/selenite/bendy/index.html",
+      "special": [
+        "top",
+        "horror",
+        "steam"
+      ]
+    },
+    {
+      "name": "BERGENTRUCK",
+      "cover": "/games/selenite/bergentruck/BERGENTRUCK_201X.apple-touch-icon.png",
+      "url": "/games/selenite/bergentruck/index.html"
+    },
+    {
+      "name": "Bloodmoney",
+      "cover": "/games/selenite/bloodmoney/logo.png",
+      "url": "/games/selenite/bloodmoney/index.html",
+      "special": [
+        "13+",
+        "gore"
+      ]
+    },
+    {
+      "name": "Do NOT Take This Cat Home",
+      "cover": "/games/selenite/donottakethiscathome/icons/icon.png",
+      "url": "/games/selenite/donottakethiscathome/index.html",
+      "special": [
+        "steam"
+      ]
+    },
+    {
+      "name": "Mousepoint",
+      "cover": "/games/selenite/mousepoint/images/logo.png",
+      "url": "/games/selenite/mousepoint/index.html"
+    },
+    {
+      "name": "Surf Go",
+      "cover": "/games/selenite/surf/logo.webp",
+      "url": "/games/selenite/surf/index.html"
+    },
+    {
+      "name": "Slender",
+      "cover": "/games/selenite/slender/logo.png",
+      "url": "/games/selenite/slender/index.html",
+      "special": [
+        "horror"
+      ]
+    },
+    {
+      "name": "Doki Doki Literature Club Plus",
+      "cover": "/games/selenite/ddlcplus/game/images/LauncherAssets/DDLC logo.png",
+      "url": "/games/selenite/ddlcplus/index.html",
+      "special": [
+        "13+",
+        "horror",
+        "steam",
+        "top",
+        "gore"
+      ]
+    },
+    {
+      "name": "Doki Doki Literature Club",
+      "cover": "/games/selenite/ddlc/icons/web-icon.png",
+      "url": "/games/selenite/ddlc/index.html",
+      "special": [
+        "13+",
+        "horror",
+        "steam",
+        "gore"
+      ]
+    },
+    {
+      "name": "Bouncy Motors",
+      "cover": "/games/selenite/bouncymotors/icon.png",
+      "url": "/games/selenite/bouncymotors/index.html"
+    },
+    {
+      "name": "Frostpunk Pico",
+      "cover": "/games/selenite/frostpunkpico/logo.png",
+      "url": "/games/selenite/frostpunkpico/index.html"
+    },
+    {
+      "name": "Class of '09: The Flip Side",
+      "cover": "/games/selenite/co09flipside/logo.png",
+      "url": "/games/selenite/co09flipside/index.html",
+      "special": [
+        "13+",
+        "steam"
+      ]
+    },
+    {
+      "name": "Class of '09: The Re-Up",
+      "cover": "/games/selenite/co09reup/logo.png",
+      "url": "/games/selenite/co09reup/index.html",
+      "special": [
+        "13+",
+        "steam"
+      ]
+    },
+    {
+      "name": "Class of '09",
+      "cover": "/games/selenite/co09/logo.png",
+      "url": "/games/selenite/co09/index.html",
+      "special": [
+        "13+",
+        "steam"
+      ]
+    },
+    {
+      "name": "Civ Clicker",
+      "cover": "/games/selenite/civclicker/images/piety.png",
+      "url": "/games/selenite/civclicker/index.html"
+    },
+    {
+      "name": "Stick With It",
+      "cover": "/games/selenite/stickwithit/logo.png",
+      "url": "/games/selenite/stickwithit/index.html",
+      "special": [
+        "steam"
+      ]
+    },
+    {
+      "name": "Kindergarten 2",
+      "cover": "/games/selenite/kindergarten2/logo.png",
+      "url": "/games/selenite/kindergarten2/index.html",
+      "special": [
+        "13+",
+        "steam",
+        "gore"
+      ]
+    },
+    {
+      "name": "Kindergarten 3",
+      "cover": "/games/selenite/kindergarten3/logo.png",
+      "url": "/games/selenite/kindergarten3/index.html",
+      "special": [
+        "13+",
+        "steam",
+        "gore"
+      ]
+    },
+    {
+      "name": "Kindergarten",
+      "cover": "/games/selenite/kindergarten1/logo.png",
+      "url": "/games/selenite/kindergarten1/index.html",
+      "special": [
+        "13+",
+        "steam",
+        "gore"
+      ]
+    },
+    {
+      "name": "Lacey's Flash Games",
+      "cover": "/games/selenite/lacysflashgames/icon.png",
+      "url": "/games/selenite/lacysflashgames/index.html",
+      "special": [
+        "horror",
+        "steam"
+      ]
+    },
+    {
+      "name": "Six Cats Under",
+      "cover": "/games/selenite/sixcatsunder/logo.png",
+      "url": "/games/selenite/sixcatsunder/index.html"
+    },
+    {
+      "name": "The Circle",
+      "cover": "/games/selenite/thecircle/img/ico144.png",
+      "url": "/games/selenite/thecircle/index.html"
+    },
+    {
+      "name": "Hardware Tycoon",
+      "cover": "/games/selenite/hardwaretycoon/icon-114.png",
+      "url": "/games/selenite/hardwaretycoon/index.html"
+    },
+    {
+      "name": "Bloons Player Pack 1",
+      "cover": "/games/selenite/bloonspp1/logo.jpg",
+      "url": "/games/selenite/bloonspp1/index.html"
+    },
+    {
+      "name": "Bloons Player Pack 2",
+      "cover": "/games/selenite/bloonspp2/logo.jpg",
+      "url": "/games/selenite/bloonspp2/index.html"
+    },
+    {
+      "name": "Bloons Player Pack 3",
+      "cover": "/games/selenite/bloonspp3/logo.jpg",
+      "url": "/games/selenite/bloonspp3/index.html"
+    },
+    {
+      "name": "Bloons Player Pack 4",
+      "cover": "/games/selenite/bloonspp4/logo.jpg",
+      "url": "/games/selenite/bloonspp4/index.html"
+    },
+    {
+      "name": "Bloons Player Pack 5",
+      "cover": "/games/selenite/bloonspp5/logo.jpg",
+      "url": "/games/selenite/bloonspp5/index.html"
+    },
+    {
+      "name": "Hollow Knight",
+      "cover": "/games/selenite/hollowknight/logo.jpg",
+      "url": "/games/selenite/hollowknight/index.html",
+      "special": [
+        "steam",
+        "top"
+      ]
+    },
+    {
+      "name": "Baldi's Basics Plus",
+      "cover": "/games/selenite/baldi-plus/cover.png",
+      "url": "/games/selenite/baldi-plus/index.html",
+      "special": [
+        "horror",
+        "steam"
+      ]
+    },
+    {
+      "name": "Crazy Cattle 3D",
+      "cover": "/games/selenite/crazycattle/CrazyCattle3D.icon.png",
+      "url": "/games/selenite/crazycattle/index.html"
+    },
+    {
+      "name": "Volley Random",
+      "cover": "/games/selenite/volleyrandom/cover.webp",
+      "url": "/games/selenite/volleyrandom/index.html"
+    },
+    {
+      "name": "Yumi Nikki",
+      "cover": "/games/selenite/yume-nikki/cover.png",
+      "url": "/games/selenite/yume-nikki/index.html",
+      "special": [
+        "steam"
+      ]
+    },
+    {
+      "name": "Webfishing",
+      "cover": "/games/selenite/web-fishing/logo.png",
+      "url": "/games/selenite/web-fishing/index.html",
+      "special": [
+        "steam"
+      ]
+    },
+    {
+      "name": "Undertale Yellow",
+      "cover": "/games/selenite/undertale-yellow/favicon.png",
+      "url": "/games/selenite/undertale-yellow/index.html"
+    },
+    {
+      "name": "Ultrakill",
+      "cover": "/games/selenite/ultrakill/logo.png",
+      "url": "/games/selenite/ultrakill/index.html",
+      "special": [
+        "steam",
+        "top"
+      ]
+    },
+    {
+      "name": "Undertale",
+      "cover": "/games/selenite/undertale/logo.png",
+      "url": "/games/selenite/undertale/index.html",
+      "special": [
+        "steam",
+        "top"
+      ]
+    },
+    {
+      "name": "That's not my Neighbor",
+      "cover": "/games/selenite/thats-not-my-neighbor/thats-not-my-neighbor.icon.png",
+      "url": "/games/selenite/thats-not-my-neighbor/index.html",
+      "special": [
+        "steam"
+      ]
+    },
+    {
+      "name": "People Playground",
+      "cover": "/games/selenite/peopleplayground/logo.jpg",
+      "url": "/games/selenite/peopleplayground/index.html",
+      "special": [
+        "steam",
+        "gore"
+      ]
+    },
+    {
+      "name": "Omori",
+      "cover": "/games/selenite/omori/icon/icon.png",
+      "url": "/games/selenite/omori/index.html",
+      "special": [
+        "steam"
+      ]
+    },
+    {
+      "name": "Milkman Karlson",
+      "cover": "/games/selenite/milkman-karlson/Build/MILKMAN.jpg",
+      "url": "/games/selenite/milkman-karlson/index.html"
+    },
+    {
+      "name": "Ace Attorney: Pheonix Wright",
+      "cover": "/games/selenite/aceattorneyphoenixwright/logo.png",
+      "url": "/games/selenite/aceattorneyphoenixwright/index.html"
+    },
+    {
+      "name": "Antimatter Dimensions",
+      "cover": "/games/selenite/antimatterdimensions/icon.png",
+      "url": "/games/selenite/antimatterdimensions/index.html"
+    },
+    {
+      "name": "Mega Man",
+      "cover": "/games/selenite/megaman/icon.png",
+      "url": "/games/selenite/megaman/index.html"
+    },
+    {
+      "name": "Mega Man 2",
+      "cover": "/games/selenite/megaman2/icon.png",
+      "url": "/games/selenite/megaman2/index.html"
+    },
+    {
+      "name": "Mega Man 3",
+      "cover": "/games/selenite/megaman3/icon.png",
+      "url": "/games/selenite/megaman3/index.html"
+    },
+    {
+      "name": "Mega Man 4",
+      "cover": "/games/selenite/megaman4/icon.png",
+      "url": "/games/selenite/megaman4/index.html"
+    },
+    {
+      "name": "Mega Man 5",
+      "cover": "/games/selenite/megaman5/icon.png",
+      "url": "/games/selenite/megaman5/index.html"
+    },
+    {
+      "name": "Mega Man 6",
+      "cover": "/games/selenite/megaman6/icon.png",
+      "url": "/games/selenite/megaman6/index.html"
+    },
+    {
+      "name": "Happy Sheepies",
+      "cover": "/games/selenite/happy-sheepies/logo.jpg",
+      "url": "/games/selenite/happy-sheepies/index.html"
+    },
+    {
+      "name": "Final Ninja",
+      "cover": "/games/selenite/final/cover.png",
+      "url": "/games/selenite/final/index.html"
+    },
+    {
+      "name": "The Sims - Busting Out",
+      "cover": "/games/selenite/bsims/cover.png",
+      "url": "/games/selenite/bsims/index.html"
+    },
+    {
+      "name": "SimCity 2000",
+      "cover": "/games/selenite/2000si/cover.png",
+      "url": "/games/selenite/2000si/index.html"
+    },
+    {
+      "name": "SimCity",
+      "cover": "/games/selenite/simcity/cover.png",
+      "url": "/games/selenite/simcity/index.html"
+    },
+    {
+      "name": "Donkey Kong",
+      "cover": "/games/selenite/kong/cover.png",
+      "url": "/games/selenite/kong/index.html"
+    },
+    {
+      "name": "Sonic Advance 3",
+      "cover": "/games/selenite/3sadv/cover.png",
+      "url": "/games/selenite/3sadv/index.html"
+    },
+    {
+      "name": "Sonic Advance 2",
+      "cover": "/games/selenite/2sadv/cover.png",
+      "url": "/games/selenite/2sadv/index.html"
+    },
+    {
+      "name": "Sonic Advance",
+      "cover": "/games/selenite/sadvance/cover.png",
+      "url": "/games/selenite/sadvance/index.html"
+    },
+    {
+      "name": "Crazy Taxi",
+      "cover": "/games/selenite/crtaxi/cover.png",
+      "url": "/games/selenite/crtaxi/index.html"
+    },
+    {
+      "name": "Sonic & Knuckles",
+      "cover": "/games/selenite/knuck/cover.png",
+      "url": "/games/selenite/knuck/index.html"
+    },
+    {
+      "name": "Sonic 3",
+      "cover": "/games/selenite/3sonic/cover.png",
+      "url": "/games/selenite/3sonic/index.html"
+    },
+    {
+      "name": "Hobo 7",
+      "cover": "/games/selenite/7hobo/cover.png",
+      "url": "/games/selenite/7hobo/index.html"
+    },
+    {
+      "name": "Hobo 6",
+      "cover": "/games/selenite/6hobo/cover.png",
+      "url": "/games/selenite/6hobo/index.html"
+    },
+    {
+      "name": "Hobo 5",
+      "cover": "/games/selenite/5hobo/cover.png",
+      "url": "/games/selenite/5hobo/index.html"
+    },
+    {
+      "name": "Hobo 4",
+      "cover": "/games/selenite/4hobo/cover.png",
+      "url": "/games/selenite/4hobo/index.html"
+    },
+    {
+      "name": "Hobo 3",
+      "cover": "/games/selenite/3hobo/cover.png",
+      "url": "/games/selenite/3hobo/index.html"
+    },
+    {
+      "name": "3 Lines",
+      "cover": "/games/selenite/3line/cover.png",
+      "url": "/games/selenite/3line/index.html"
+    },
+    {
+      "name": "Crazy Flasher 6",
+      "cover": "/games/selenite/6flash/cover.png",
+      "url": "/games/selenite/6flash/index.html"
+    },
+    {
+      "name": "Crazy Flasher 5",
+      "cover": "/games/selenite/5flash/cover.png",
+      "url": "/games/selenite/5flash/index.html"
+    },
+    {
+      "name": "Crazy Flasher 4",
+      "cover": "/games/selenite/4flash/cover.png",
+      "url": "/games/selenite/4flash/index.html"
+    },
+    {
+      "name": "Crazy Flasher 2",
+      "cover": "/games/selenite/2flash/cover.png",
+      "url": "/games/selenite/2flash/index.html"
+    },
+    {
+      "name": "Crazy Flasher 3",
+      "cover": "/games/selenite/3flash/cover.png",
+      "url": "/games/selenite/3flash/index.html"
+    },
+    {
+      "name": "GTA: Advance",
+      "cover": "/games/selenite/advgta/cover.png",
+      "url": "/games/selenite/advgta/index.html"
+    },
+    {
+      "name": "GTA 1",
+      "cover": "/games/selenite/gta1/cover.png",
+      "url": "/games/selenite/gta1/index.html"
+    },
+    {
+      "name": "GTA 2",
+      "cover": "/games/selenite/gta2/cover.png",
+      "url": "/games/selenite/gta2/index.html"
+    },
+    {
+      "name": "Quake 3",
+      "cover": "/games/selenite/quake3/logo.avif",
+      "url": "/games/selenite/quake3/index.html"
+    },
+    {
+      "name": "3D Space Cadet Pinball",
+      "cover": "/games/selenite/pinball/cover.png",
+      "url": "/games/selenite/pinball/index.html"
+    },
+    {
+      "name": "Sonic 2",
+      "cover": "/games/selenite/2sonic/cover.svg",
+      "url": "/games/selenite/2sonic/index.html"
+    },
+    {
+      "name": "Corporation Inc",
+      "cover": "/games/selenite/corp/cover.png",
+      "url": "/games/selenite/corp/index.html"
+    },
+    {
+      "name": "Plants vs. Zombies",
+      "cover": "/games/selenite/pvz/cover.png",
+      "url": "/games/selenite/pvz/index.html"
+    },
+    {
+      "name": "Pyongyang Racer",
+      "cover": "/games/selenite/pyong/cover.png",
+      "url": "/games/selenite/pyong/index.html"
+    },
+    {
+      "name": "Ultimate Flash Sonic",
+      "cover": "/games/selenite/flash/cover.png",
+      "url": "/games/selenite/flash/index.html"
+    },
+    {
+      "name": "Hobo 2",
+      "cover": "/games/selenite/2hobo/cover.png",
+      "url": "/games/selenite/2hobo/index.html"
+    },
+    {
+      "name": "Hobo 1",
+      "cover": "/games/selenite/1hobo/cover.png",
+      "url": "/games/selenite/1hobo/index.html"
+    },
+    {
+      "name": "Super Auto Pets",
+      "cover": "/games/selenite/auto/cover.png",
+      "url": "/games/selenite/auto/index.html"
+    },
+    {
+      "name": "Sonic 1",
+      "cover": "/games/selenite/sonic/cover.svg",
+      "url": "/games/selenite/sonic/index.html"
+    },
+    {
+      "name": "Earn to Die",
+      "cover": "/games/selenite/ern/cover.png",
+      "url": "/games/selenite/ern/index.html"
+    },
+    {
+      "name": "Temple of Boom",
+      "cover": "/games/selenite/temple/cover.png",
+      "url": "/games/selenite/temple/index.html"
+    },
+    {
+      "name": "Backrooms 2D",
+      "cover": "/games/selenite/2d/cover.png",
+      "url": "/games/selenite/2d/index.html"
+    },
+    {
+      "name": "Superhero Drop",
+      "cover": "/games/selenite/superhero/superhero drop.webp",
+      "url": "/games/selenite/superhero/index.html"
+    },
+    {
+      "name": "Jake's Jingle Quest",
+      "cover": "/games/selenite/jake/cover.png",
+      "url": "/games/selenite/jake/index.html"
+    },
+    {
+      "name": "Bouncy Flappy",
+      "cover": "/games/selenite/bounce/cover.png",
+      "url": "/games/selenite/bounce/index.html"
+    },
+    {
+      "name": "Real Flying Truck 3D",
+      "cover": "/games/selenite/trk/logo.png",
+      "url": "/games/selenite/trk/index.html"
+    },
+    {
+      "name": "Crazy Tunnel 3D",
+      "cover": "/games/selenite/crazy/cover.png",
+      "url": "/games/selenite/crazy/index.html"
+    },
+    {
+      "name": "Two Ball 3D",
+      "cover": "/games/selenite/two/cover.png",
+      "url": "/games/selenite/two/index.html"
+    },
+    {
+      "name": "Slope City",
+      "cover": "/games/selenite/ballslo/cover.png",
+      "url": "/games/selenite/ballslo/index.html"
+    },
+    {
+      "name": "Shapez",
+      "cover": "/games/selenite/shapez/cover.png",
+      "url": "/games/selenite/shapez/index.html"
+    },
+    {
+      "name": "Pickcrafter",
+      "cover": "/games/selenite/pick/cover.png",
+      "url": "/games/selenite/pick/index.html"
+    },
+    {
+      "name": "Sudoku",
+      "cover": "/games/selenite/sudo/cover.png",
+      "url": "/games/selenite/sudo/index.html"
+    },
+    {
+      "name": "Rocket Bot Royale",
+      "cover": "/games/selenite/rocket/cover.png",
+      "url": "/games/selenite/rocket/index.html"
+    },
+    {
+      "name": "Slope 3",
+      "cover": "/games/selenite/slope3/cover.png",
+      "url": "/games/selenite/slope3/index.html"
+    },
+    {
+      "name": "InfiniteCraft",
+      "cover": "/games/selenite/infi/cover.png",
+      "url": "/games/selenite/infi/index.html"
+    },
+    {
+      "name": "Mine Blocks",
+      "cover": "/games/selenite/minors/cover.png",
+      "url": "/games/selenite/minors/index.html"
+    },
+    {
+      "name": "Wubzzy's Amazing Adventure",
+      "cover": "/games/selenite/wubz/cover.png",
+      "url": "/games/selenite/wubz/index.html"
+    },
+    {
+      "name": "Bus & Subway Runner",
+      "cover": "/games/selenite/subway/cover.png",
+      "url": "/games/selenite/subway/index.html"
+    },
+    {
+      "name": "Drift King",
+      "cover": "/games/selenite/king/cover.png",
+      "url": "/games/selenite/king/index.html"
+    },
+    {
+      "name": "Pako Highway",
+      "cover": "/games/selenite/pako/cover.png",
+      "url": "/games/selenite/pako/index.html"
+    },
+    {
+      "name": "Snowball.io",
+      "cover": "/games/selenite/snow/cover.png",
+      "url": "/games/selenite/snow/index.html"
+    },
+    {
+      "name": "Balloon Run",
+      "cover": "/games/selenite/bal/cover.png",
+      "url": "/games/selenite/bal/index.html"
+    },
+    {
+      "name": "Gunfest",
+      "cover": "/games/selenite/fest/cover.png",
+      "url": "/games/selenite/fest/index.html"
+    },
+    {
+      "name": "Run 3 Editor",
+      "cover": "/games/selenite/editor/cover.png",
+      "url": "/games/selenite/editor/index.html"
+    },
+    {
+      "name": "Train Surfers",
+      "cover": "/games/selenite/train/cover.png",
+      "url": "/games/selenite/train/index.html"
+    },
+    {
+      "name": "Fruit Cuts 3D",
+      "cover": "/games/selenite/fruit/cover.png",
+      "url": "/games/selenite/fruit/index.html"
+    },
+    {
+      "name": "Grand Shift Auto",
+      "cover": "/games/selenite/gsa/cover.png",
+      "url": "/games/selenite/gsa/index.html"
+    },
+    {
+      "name": "Unfair Mario",
+      "cover": "/games/selenite/unfmar/cover.png",
+      "url": "/games/selenite/unfmar/index.html"
+    },
+    {
+      "name": "WASM Doom",
+      "cover": "/games/selenite/doom-wasm/cover.png",
+      "url": "/games/selenite/doom-wasm/index.html"
+    },
+    {
+      "name": "Talking Tom Cat",
+      "cover": "/games/selenite/tom2/logo.avif",
+      "url": "/games/selenite/tom2/index.html"
+    },
+    {
+      "name": "Flappy 2048",
+      "cover": "/games/selenite/flap/cover.png",
+      "url": "/games/selenite/flap/index.html"
+    },
+    {
+      "name": "9007199254740992",
+      "cover": "/games/selenite/9007199254740992/cover.png",
+      "url": "/games/selenite/9007199254740992/index.html"
+    },
+    {
+      "name": "1",
+      "cover": "/games/selenite/1/cover.png",
+      "url": "/games/selenite/1/index.html"
+    },
+    {
+      "name": "Wheely 4",
+      "cover": "/games/selenite/whe4/cover.png",
+      "url": "/games/selenite/whe4/index.html"
+    },
+    {
+      "name": "Wheely 3",
+      "cover": "/games/selenite/whe3/cover.png",
+      "url": "/games/selenite/whe3/index.html"
+    },
+    {
+      "name": "Wheely 2",
+      "cover": "/games/selenite/whe2/cover.png",
+      "url": "/games/selenite/whe2/index.html"
+    },
+    {
+      "name": "Wheely 1",
+      "cover": "/games/selenite/whe/cover.png",
+      "url": "/games/selenite/whe/index.html"
+    },
+    {
+      "name": "Glassworks",
+      "cover": "/games/selenite/glass/cover.png",
+      "url": "/games/selenite/glass/index.html"
+    },
+    {
+      "name": "Mutiny",
+      "cover": "/games/selenite/mut/cover.png",
+      "url": "/games/selenite/mut/index.html"
+    },
+    {
+      "name": "Snotput",
+      "cover": "/games/selenite/snot/cover.png",
+      "url": "/games/selenite/snot/index.html"
+    },
+    {
+      "name": "Headcase",
+      "cover": "/games/selenite/headcase/cover.png",
+      "url": "/games/selenite/headcase/index.html"
+    },
+    {
+      "name": "Bubble Shooter",
+      "cover": "/games/selenite/bub/cover.png",
+      "url": "/games/selenite/bub/index.html"
+    },
+    {
+      "name": "Skywire VIP (Extended)",
+      "cover": "/games/selenite/sky/cover.png",
+      "url": "/games/selenite/sky/index.html"
+    },
+    {
+      "name": "Plunger",
+      "cover": "/games/selenite/plu/cover.png",
+      "url": "/games/selenite/plu/index.html"
+    },
+    {
+      "name": "Gunbrick",
+      "cover": "/games/selenite/brick/cover.png",
+      "url": "/games/selenite/brick/index.html"
+    },
+    {
+      "name": "Nitrome Must Die",
+      "cover": "/games/selenite/nitme/cover.png",
+      "url": "/games/selenite/nitme/index.html"
+    },
+    {
+      "name": "Robo Run",
+      "cover": "/games/selenite/robo/cover.png",
+      "url": "/games/selenite/robo/index.html"
+    },
+    {
+      "name": "Meteor Game",
+      "cover": "/games/selenite/meteor/cover.png",
+      "url": "/games/selenite/meteor/index.html"
+    },
+    {
+      "name": "Skateboarding Simulator",
+      "cover": "/games/selenite/skate/cover.png",
+      "url": "/games/selenite/skate/index.html"
+    },
+    {
+      "name": "CrossNRoad",
+      "cover": "/games/selenite/crossnroad/cover.png",
+      "url": "/games/selenite/crossnroad/index.html"
+    },
+    {
+      "name": "Tappy Plane",
+      "cover": "/games/selenite/tappyplane/cover.png",
+      "url": "/games/selenite/tappyplane/index.html"
+    },
+    {
+      "name": "Putin on the Ritz",
+      "cover": "/games/selenite/ritz/cover.png",
+      "url": "/games/selenite/ritz/index.html"
+    },
+    {
+      "name": "Sandboxels",
+      "cover": "/games/selenite/box/cover.png",
+      "url": "/games/selenite/box/index.html"
+    },
+    {
+      "name": "Flappy Race",
+      "cover": "/games/selenite/flappyrace/cover.png",
+      "url": "/games/selenite/flappyrace/index.html"
+    },
+    {
+      "name": "Adventure",
+      "cover": "/games/selenite/adventure/cover.png",
+      "url": "/games/selenite/adventure/index.html"
+    },
+    {
+      "name": "The Heist",
+      "cover": "/games/selenite/heist/cover.png",
+      "url": "/games/selenite/heist/index.html"
+    },
+    {
+      "name": "Age of War 2",
+      "cover": "/games/selenite/aow2/cover.png",
+      "url": "/games/selenite/aow2/index.html"
+    },
+    {
+      "name": "Star Clicker",
+      "cover": "/games/selenite/star/cover.png",
+      "url": "/games/selenite/star/index.html"
+    },
+    {
+      "name": "Racer",
+      "cover": "/games/selenite/racer/cover.png",
+      "url": "/games/selenite/racer/index.html"
+    },
+    {
+      "name": "Fort@dmin",
+      "cover": "/games/selenite/fort/cover.png",
+      "url": "/games/selenite/fort/index.html"
+    },
+    {
+      "name": "Flappy Dino",
+      "cover": "/games/selenite/fld/cover.png",
+      "url": "/games/selenite/fld/index.html"
+    },
+    {
+      "name": "Connect Four",
+      "cover": "/games/selenite/c4/cover.png",
+      "url": "/games/selenite/c4/index.html"
+    },
+    {
+      "name": "13 Days of Hell",
+      "cover": "/games/selenite/13/cover.png",
+      "url": "/games/selenite/13/index.html"
+    },
+    {
+      "name": "Mindustry",
+      "cover": "/games/selenite/mind/cover.png",
+      "url": "/games/selenite/mind/index.html"
+    },
+    {
+      "name": "House of Hazards",
+      "cover": "/games/selenite/houseofhazards/favicon.ico",
+      "url": "/games/selenite/houseofhazards/index.html"
+    },
+    {
+      "name": "Shape Shipper",
+      "cover": "/games/selenite/shape/cover.png",
+      "url": "/games/selenite/shape/index.html"
+    },
+    {
+      "name": "Rough Dino",
+      "cover": "/games/selenite/roughdino/cover.png",
+      "url": "/games/selenite/roughdino/index.html"
+    },
+    {
+      "name": "Geometry Meltdown",
+      "cover": "/games/selenite/geomelt/cover.png",
+      "url": "/games/selenite/geomelt/index.html"
+    },
+    {
+      "name": "Geometry Jump",
+      "cover": "/games/selenite/geojump/cover.png",
+      "url": "/games/selenite/geojump/index.html"
+    },
+    {
+      "name": "Counter Strike: DS",
+      "cover": "/games/selenite/cds/cover.png",
+      "url": "/games/selenite/cds/index.html"
+    },
+    {
+      "name": "Terri-Fried",
+      "cover": "/games/selenite/terrifried/cover.png",
+      "url": "/games/selenite/terrifried/index.html"
+    },
+    {
+      "name": "Geometry Dash Remastered",
+      "cover": "/games/selenite/geodashrm/cover.png",
+      "url": "/games/selenite/geodashrm/index.html"
+    },
+    {
+      "name": "The Minions: Resurrection",
+      "cover": "/games/selenite/minion/cover.png",
+      "url": "/games/selenite/minion/index.html"
+    },
+    {
+      "name": "Geometry Dash Sky",
+      "cover": "/games/selenite/geodashsky/cover.png",
+      "url": "/games/selenite/geodashsky/index.html"
+    },
+    {
+      "name": "Drift Mania",
+      "cover": "/games/selenite/drift/cover.png",
+      "url": "/games/selenite/drift/index.html"
+    },
+    {
+      "name": "Driving Force 4",
+      "cover": "/games/selenite/driving/cover.png",
+      "url": "/games/selenite/driving/index.html"
+    },
+    {
+      "name": "Red Ball 1",
+      "cover": "/games/selenite/redball/cover.png",
+      "url": "/games/selenite/redball/index.html"
+    },
+    {
+      "name": "Recoil",
+      "cover": "/games/selenite/recoil/cover.png",
+      "url": "/games/selenite/recoil/index.html"
+    },
+    {
+      "name": "Deepest Sword",
+      "cover": "/games/selenite/deepestsword/logo.png",
+      "url": "/games/selenite/deepestsword/index.html"
+    },
+    {
+      "name": "Tomb of The Mask",
+      "cover": "/games/selenite/tombofthemask/cover.png",
+      "url": "/games/selenite/tombofthemask/index.html"
+    },
+    {
+      "name": "Hill Climb Racing",
+      "cover": "/games/selenite/hillclimbracing/cover.png",
+      "url": "/games/selenite/hillclimbracing/index.html"
+    },
+    {
+      "name": "Gladihoppers",
+      "cover": "/games/selenite/gladihoppers/cover.png",
+      "url": "/games/selenite/gladihoppers/index.html"
+    },
+    {
+      "name": "Flappy Copter",
+      "cover": "/games/selenite/flappycopter/cover.png",
+      "url": "/games/selenite/flappycopter/index.html"
+    },
+    {
+      "name": "Kick That Buddy",
+      "cover": "/games/selenite/kickthatbuddy/cover.png",
+      "url": "/games/selenite/kickthatbuddy/index.html"
+    },
+    {
+      "name": "Grand Truckismo",
+      "cover": "/games/selenite/grandtruckismo/cover.png",
+      "url": "/games/selenite/grandtruckismo/index.html"
+    },
+    {
+      "name": "Turbo Racing 3",
+      "cover": "/games/selenite/turboracing3/cover.png",
+      "url": "/games/selenite/turboracing3/index.html"
+    },
+    {
+      "name": "The Binding of Issac",
+      "cover": "/games/selenite/tboi/cover.png",
+      "url": "/games/selenite/tboi/index.html"
+    },
+    {
+      "name": "Gun Knight",
+      "cover": "/games/selenite/gunknight/cover.png",
+      "url": "/games/selenite/gunknight/index.html"
+    },
+    {
+      "name": "The Oregon Trail",
+      "cover": "/games/selenite/oregon/cover.png",
+      "url": "/games/selenite/oregon/index.html"
+    },
+    {
+      "name": "Windows 98",
+      "cover": "/games/selenite/windows98/cover.png",
+      "url": "/games/selenite/windows98/index.html"
+    },
+    {
+      "name": "Creeper Craft",
+      "cover": "/games/selenite/creepercraft/cover.png",
+      "url": "/games/selenite/creepercraft/index.html"
+    },
+    {
+      "name": "Block Zappers 3",
+      "cover": "/games/selenite/blockzappers/logo.png",
+      "url": "/games/selenite/blockzappers/index.html"
+    },
+    {
+      "name": "Frogger",
+      "cover": "/games/selenite/frogger/cover.png",
+      "url": "/games/selenite/frogger/index.html"
+    },
+    {
+      "name": "Simon",
+      "cover": "/games/selenite/simon/cover.png",
+      "url": "/games/selenite/simon/index.html"
+    },
+    {
+      "name": "Super Mario 63",
+      "cover": "/games/selenite/mario63/cover.png",
+      "url": "/games/selenite/mario63/index.html"
+    },
+    {
+      "name": "Bike Champ 2",
+      "cover": "/games/selenite/bikechamp2/logo.jpg",
+      "url": "/games/selenite/bikechamp2/index.html"
+    },
+    {
+      "name": "Bike Champ",
+      "cover": "/games/selenite/bikechamp/logo.png",
+      "url": "/games/selenite/bikechamp/index.html"
+    },
+    {
+      "name": "Gloom",
+      "cover": "/games/selenite/gloom/cover.png",
+      "url": "/games/selenite/gloom/index.html"
+    },
+    {
+      "name": "Copter",
+      "cover": "/games/selenite/copter/cover.png",
+      "url": "/games/selenite/copter/index.html"
+    },
+    {
+      "name": "Minesweeper",
+      "cover": "/games/selenite/minesweeper/cover.png",
+      "url": "/games/selenite/minesweeper/index.html"
+    },
+    {
+      "name": "POOM",
+      "cover": "/games/selenite/poom/cover.png",
+      "url": "/games/selenite/poom/index.html"
+    },
+    {
+      "name": "Solitaire",
+      "cover": "/games/selenite/solitaire/cover.png",
+      "url": "/games/selenite/solitaire/index.html"
+    },
+    {
+      "name": "Spank the Monkey",
+      "cover": "/games/selenite/spankthemonkey/cover.png",
+      "url": "/games/selenite/spankthemonkey/index.html"
+    },
+    {
+      "name": "Pool",
+      "cover": "/games/selenite/pool/cover.png",
+      "url": "/games/selenite/pool/index.html"
+    },
+    {
+      "name": "Yohoho.io",
+      "cover": "/games/selenite/yohoho/cover.png",
+      "url": "/games/selenite/yohoho/index.html"
+    },
+    {
+      "name": "Tube Jumpers",
+      "cover": "/games/selenite/tube-jumpers/cover.png",
+      "url": "/games/selenite/tube-jumpers/index.html"
+    },
+    {
+      "name": "Hill Climb Racing 2",
+      "cover": "/games/selenite/hillclimbracing2/cover.png",
+      "url": "/games/selenite/hillclimbracing2/index.html"
+    },
+    {
+      "name": "DOOM",
+      "cover": "/games/selenite/doom/logo.png",
+      "url": "/games/selenite/doom/index.html",
+      "special": [
+        "13+"
+      ]
+    },
+    {
+      "name": "Awesome Tanks",
+      "cover": "/games/selenite/awesometanks/cover.png",
+      "url": "/games/selenite/awesometanks/index.html"
+    },
+    {
+      "name": "Pong",
+      "cover": "/games/selenite/pong/cover.png",
+      "url": "/games/selenite/pong/index.html"
+    },
+    {
+      "name": "A Dance of Fire & Ice",
+      "cover": "/games/selenite/adofai/splash.png",
+      "url": "/games/selenite/adofai/index.html"
+    },
+    {
+      "name": "Friday Night Funkin",
+      "cover": "/games/selenite/fridaynightfunkin/favicon.png",
+      "url": "/games/selenite/fridaynightfunkin/index.html",
+      "special": [
+        "top"
+      ]
+    },
+    {
+      "name": "Worlds Hardest Game",
+      "cover": "/games/selenite/worldshardestgame/icon.png",
+      "url": "/games/selenite/worldshardestgame/index.html"
+    },
+    {
+      "name": "Celeste (PICO-8)",
+      "cover": "/games/selenite/celeste/icon.png",
+      "url": "/games/selenite/celeste/index.html"
+    },
+    {
+      "name": "Mario",
+      "cover": "/games/selenite/mario/icon.png",
+      "url": "/games/selenite/mario/index.html"
+    },
+    {
+      "name": "60s Burger Run",
+      "cover": "/games/selenite/60sburgerrun/icon.png",
+      "url": "/games/selenite/60sburgerrun/index.html"
+    },
+    {
+      "name": "Cluster Rush",
+      "cover": "/games/selenite/cluster-rush/icon.jpg",
+      "url": "/games/selenite/cluster-rush/index.html"
+    },
+    {
+      "name": "Vex 3",
+      "cover": "/games/selenite/vex3/icon.png",
+      "url": "/games/selenite/vex3/index.html"
+    },
+    {
+      "name": "Adventure Capitalist",
+      "cover": "/games/selenite/adventure-capitalist/logo.webp",
+      "url": "/games/selenite/adventure-capitalist/index.html"
+    },
+    {
+      "name": "Bloons Tower Defense 3",
+      "cover": "/games/selenite/btd3/icon.png",
+      "url": "/games/selenite/btd3/index.html"
+    },
+    {
+      "name": "Avalanche",
+      "cover": "/games/selenite/avalanche/icon.png",
+      "url": "/games/selenite/avalanche/index.html"
+    },
+    {
+      "name": "Slope",
+      "cover": "/games/selenite/slope/slope4.jpeg",
+      "url": "/games/selenite/slope/index.html"
+    },
+    {
+      "name": "Cell Machine",
+      "cover": "/games/selenite/cell-machine/img/icon.png",
+      "url": "/games/selenite/cell-machine/index.html"
+    },
+    {
+      "name": "Run 2",
+      "cover": "/games/selenite/run2/icon.jpg",
+      "url": "/games/selenite/run2/index.html"
+    },
+    {
+      "name": "Vex 5",
+      "cover": "/games/selenite/vex5/icon.png",
+      "url": "/games/selenite/vex5/index.html"
+    },
+    {
+      "name": "Vex 4",
+      "cover": "/games/selenite/vex4/vex4.png",
+      "url": "/games/selenite/vex4/index.html"
+    },
+    {
+      "name": "Vex 2",
+      "cover": "/games/selenite/vex2/icon.png",
+      "url": "/games/selenite/vex2/index.html"
+    },
+    {
+      "name": "Crossy Road",
+      "cover": "/games/selenite/crossyroad/chicken.png",
+      "url": "/games/selenite/crossyroad/index.html"
+    },
+    {
+      "name": "Wall Smash",
+      "cover": "/games/selenite/wallsmash/icon.png",
+      "url": "/games/selenite/wallsmash/index.html"
+    },
+    {
+      "name": "Death Run 3D",
+      "cover": "/games/selenite/death-run-3d/img/death.png",
+      "url": "/games/selenite/death-run-3d/index.html"
+    },
+    {
+      "name": "Gun Mayhem 2",
+      "cover": "/games/selenite/gunmayhem2/icon.png",
+      "url": "/games/selenite/gunmayhem2/index.html"
+    },
+    {
+      "name": "CircloO",
+      "cover": "/games/selenite/circloo/icon.png",
+      "url": "/games/selenite/circloo/index.html"
+    },
+    {
+      "name": "Vex",
+      "cover": "/games/selenite/vex/icon.png",
+      "url": "/games/selenite/vex/index.html"
+    },
+    {
+      "name": "Stack",
+      "cover": "/games/selenite/stack/icon.png",
+      "url": "/games/selenite/stack/index.html"
+    },
+    {
+      "name": "xx142-b2.exe",
+      "cover": "/games/selenite/xx142-b2.exe/icon.png",
+      "url": "/games/selenite/xx142-b2.exe/index.html"
+    },
+    {
+      "name": "paper.io",
+      "cover": "/games/selenite/paperio/icon.png",
+      "url": "/games/selenite/paperio/index.html"
+    },
+    {
+      "name": "Chibi Knight",
+      "cover": "/games/selenite/chibiknight/icon.png",
+      "url": "/games/selenite/chibiknight/index.html"
+    },
+    {
+      "name": "1v1.lol",
+      "cover": "/games/selenite/1v1lol/splash.png",
+      "url": "/games/selenite/1v1lol/index.html"
+    },
+    {
+      "name": "Dino",
+      "cover": "/games/selenite/dino/icon.png",
+      "url": "/games/selenite/dino/index.html"
+    },
+    {
+      "name": "Tetris",
+      "cover": "/games/selenite/tetris/favico.ico",
+      "url": "/games/selenite/tetris/index.html"
+    },
+    {
+      "name": "Geometry Dash (Scratch)",
+      "cover": "/games/selenite/geometrydash/icon.png",
+      "url": "/games/selenite/geometrydash/index.html"
+    },
+    {
+      "name": "Sand Game",
+      "cover": "/games/selenite/sand/icon.png",
+      "url": "/games/selenite/sand/index.html"
+    },
+    {
+      "name": "Dante",
+      "cover": "/games/selenite/dante/icon.png",
+      "url": "/games/selenite/dante/index.html"
+    },
+    {
+      "name": "Wordle",
+      "cover": "/games/selenite/wordle/icon.png",
+      "url": "/games/selenite/wordle/index.html"
+    },
+    {
+      "name": "Offline Paradise",
+      "cover": "/games/selenite/offlineparadise/icon.png",
+      "url": "/games/selenite/offlineparadise/index.html"
+    },
+    {
+      "name": "2048",
+      "cover": "/games/selenite/2048/icon.png",
+      "url": "/games/selenite/2048/index.html"
+    },
+    {
+      "name": "Doodle Jump",
+      "cover": "/games/selenite/doodlejump/icon.png",
+      "url": "/games/selenite/doodlejump/index.html"
+    },
+    {
+      "name": "Weave Silk",
+      "cover": "/games/selenite/weavesilk/icon.png",
+      "url": "/games/selenite/weavesilk/index.html"
+    },
+    {
+      "name": "Super Meat Boy",
+      "cover": "/games/selenite/supermeatboy/icon.png",
+      "url": "/games/selenite/supermeatboy/index.html"
+    },
+    {
+      "name": "Vex 6",
+      "cover": "/games/selenite/vex6/icon.png",
+      "url": "/games/selenite/vex6/index.html"
+    },
+    {
+      "name": "WebGL Fluid Sim",
+      "cover": "/games/selenite/fluidsim/icon.png",
+      "url": "/games/selenite/fluidsim/index.html"
+    },
+    {
+      "name": "Basketball Stars",
+      "cover": "/games/selenite/basketball-stars/icon.png",
+      "url": "/games/selenite/basketball-stars/index.html"
+    },
+    {
+      "name": "osu! (Scratch)",
+      "cover": "/games/selenite/osu/icon.png",
+      "url": "/games/selenite/osu/index.html"
+    },
+    {
+      "name": "Cookie Clicker",
+      "cover": "/games/selenite/cookieclicker/img/perfectCookie.png",
+      "url": "/games/selenite/cookieclicker/index.html"
+    },
+    {
+      "name": "Superhot",
+      "cover": "/games/selenite/superhot/icon.png",
+      "url": "/games/selenite/superhot/index.html"
+    },
+    {
+      "name": "Super Mario 64",
+      "cover": "/games/selenite/supermario64/icon.png",
+      "url": "/games/selenite/supermario64/index.html"
+    },
+    {
+      "name": "Gun Mayhem Redux",
+      "cover": "/games/selenite/gunmayhemredux/icon.png",
+      "url": "/games/selenite/gunmayhemredux/index.html"
+    },
+    {
+      "name": "I Wanna Be Thy Copy",
+      "cover": "/games/selenite/iwbtc/icon.png",
+      "url": "/games/selenite/iwbtc/index.html"
+    },
+    {
+      "name": "HexGL",
+      "cover": "/games/selenite/hexgl/icon_128.png",
+      "url": "/games/selenite/hexgl/index.html"
+    },
+    {
+      "name": "Champion Island",
+      "cover": "/games/selenite/championisland/icon.png",
+      "url": "/games/selenite/championisland/index.html"
+    },
+    {
+      "name": "Learn to Fly",
+      "cover": "/games/selenite/learntofly/icon.png",
+      "url": "/games/selenite/learntofly/index.html"
+    },
+    {
+      "name": "Wordle Bot",
+      "cover": "/games/selenite/wordlebot/icon.png",
+      "url": "/games/selenite/wordlebot/index.html"
+    },
+    {
+      "name": "Cut The Rope",
+      "cover": "/games/selenite/cuttherope/icon.png",
+      "url": "/games/selenite/cuttherope/index.html"
+    },
+    {
+      "name": "Chess",
+      "cover": "/games/selenite/chess/icon.png",
+      "url": "/games/selenite/chess/index.html"
+    },
+    {
+      "name": "Flappy Bird",
+      "cover": "/games/selenite/flappybird/icon.png",
+      "url": "/games/selenite/flappybird/index.html"
+    },
+    {
+      "name": "Lows Adventures 2",
+      "cover": "/games/selenite/lowsadventures2/icon.png",
+      "url": "/games/selenite/lowsadventures2/index.html"
+    },
+    {
+      "name": "Drift Boss",
+      "cover": "/games/selenite/drift-boss/icon.png",
+      "url": "/games/selenite/drift-boss/index.html"
+    },
+    {
+      "name": "Fireboy & Watergirl 1",
+      "cover": "/games/selenite/fireboywatergirl/icon.png",
+      "url": "/games/selenite/fireboywatergirl/index.html"
+    },
+    {
+      "name": "Gun Mayhem",
+      "cover": "/games/selenite/gunmayhem/icon.png",
+      "url": "/games/selenite/gunmayhem/index.html"
+    },
+    {
+      "name": "Duck Life 4",
+      "cover": "/games/selenite/ducklife4/icon.png",
+      "url": "/games/selenite/ducklife4/index.html"
+    },
+    {
+      "name": "Achievement Unlocked",
+      "cover": "/games/selenite/achieveunlocked/icon.png",
+      "url": "/games/selenite/achieveunlocked/index.html"
+    },
+    {
+      "name": "Achievement Unlocked 2",
+      "cover": "/games/selenite/achieveunlocked2/icon.png",
+      "url": "/games/selenite/achieveunlocked2/index.html"
+    },
+    {
+      "name": "This Is The Only Level",
+      "cover": "/games/selenite/thisistheonlylevel/logo.png",
+      "url": "/games/selenite/thisistheonlylevel/index.html"
+    },
+    {
+      "name": "This Is The Only Level 2",
+      "cover": "/games/selenite/thisistheonlylevel2/icon.png",
+      "url": "/games/selenite/thisistheonlylevel2/index.html"
+    },
+    {
+      "name": "Bitlife",
+      "cover": "/games/selenite/bitlife/bitlife.png",
+      "url": "/games/selenite/bitlife/index.html"
+    },
+    {
+      "name": "Duck Life 1",
+      "cover": "/games/selenite/ducklife1/ducklife1.png",
+      "url": "/games/selenite/ducklife1/index.html"
+    },
+    {
+      "name": "Duck Life 2",
+      "cover": "/games/selenite/ducklife2/ducklife2.png",
+      "url": "/games/selenite/ducklife2/index.html"
+    },
+    {
+      "name": "Duck Life 3",
+      "cover": "/games/selenite/ducklife3/ducklife3.png",
+      "url": "/games/selenite/ducklife3/index.html"
+    },
+    {
+      "name": "OvO",
+      "cover": "/games/selenite/ovo/ovo3.png",
+      "url": "/games/selenite/ovo/index.html"
+    },
+    {
+      "name": "There Is No Game",
+      "cover": "/games/selenite/thereisnogame/icon-256.png",
+      "url": "/games/selenite/thereisnogame/index.html"
+    },
+    {
+      "name": "Universal Paperclips",
+      "cover": "/games/selenite/universal-paperclips/universal-paperclips.png",
+      "url": "/games/selenite/universal-paperclips/index.html"
+    },
+    {
+      "name": "Learn to Fly 2",
+      "cover": "/games/selenite/learntofly2/logo.jpg",
+      "url": "/games/selenite/learntofly2/index.html"
+    },
+    {
+      "name": "Worlds Hardest Game 2",
+      "cover": "/games/selenite/worldhardestgame2/the-worlds-hardest-game-2.jpg",
+      "url": "/games/selenite/worldhardestgame2/index.html"
+    },
+    {
+      "name": "Vex 7",
+      "cover": "/games/selenite/vex7/icon.jpeg",
+      "url": "/games/selenite/vex7/index.html"
+    },
+    {
+      "name": "Slope Ball",
+      "cover": "/games/selenite/slope-ball/icon.jpg",
+      "url": "/games/selenite/slope-ball/index.html"
+    },
+    {
+      "name": "Slope 2",
+      "cover": "/games/selenite/slope2/slope-2-logo.png",
+      "url": "/games/selenite/slope2/index.html"
+    },
+    {
+      "name": "Learn to Fly Idle",
+      "cover": "/games/selenite/learntoflyidle/icon.jpg",
+      "url": "/games/selenite/learntoflyidle/index.html"
+    },
+    {
+      "name": "Red Ball 4",
+      "cover": "/games/selenite/redball4/redball4.webp",
+      "url": "/games/selenite/redball4/index.html"
+    },
+    {
+      "name": "Red Ball 4 Vol 3",
+      "cover": "/games/selenite/redball4vol3/redball4vol3.webp",
+      "url": "/games/selenite/redball4vol3/index.html"
+    },
+    {
+      "name": "Red Ball 4 Vol 2",
+      "cover": "/games/selenite/redball4vol2/redball4vol2.webp",
+      "url": "/games/selenite/redball4vol2/index.html"
+    },
+    {
+      "name": "Red Ball 3",
+      "cover": "/games/selenite/redball3/redball3.png",
+      "url": "/games/selenite/redball3/index.html"
+    },
+    {
+      "name": "Snake",
+      "cover": "/games/selenite/snake/snake.png",
+      "url": "/games/selenite/snake/index.html"
+    },
+    {
+      "name": "Pacman",
+      "cover": "/games/selenite/pacman/icon.png",
+      "url": "/games/selenite/pacman/index.html"
+    },
+    {
+      "name": "Color Switch",
+      "cover": "/games/selenite/colorswitch/colorswitch.png",
+      "url": "/games/selenite/colorswitch/index.html"
+    },
+    {
+      "name": "Halloween 2016",
+      "cover": "/games/selenite/halloween2016/logo.png",
+      "url": "/games/selenite/halloween2016/index.html"
+    },
+    {
+      "name": "Game Maker Doodle",
+      "cover": "/games/selenite/gamemaker/images.jpeg",
+      "url": "/games/selenite/gamemaker/index.html"
+    },
+    {
+      "name": "The Impossible Game",
+      "cover": "/games/selenite/theimpossiblegame/image.jpg",
+      "url": "/games/selenite/theimpossiblegame/index.html"
+    },
+    {
+      "name": "Papas Freezeria",
+      "cover": "/games/selenite/papasfreezeria/images.jpeg",
+      "url": "/games/selenite/papasfreezeria/index.html"
+    },
+    {
+      "name": "Papas Pizzeria",
+      "cover": "/games/selenite/papaspizzeria/images.jpeg",
+      "url": "/games/selenite/papaspizzeria/index.html"
+    },
+    {
+      "name": "Idle Breakout",
+      "cover": "/games/selenite/idlebreakout/image.png",
+      "url": "/games/selenite/idlebreakout/index.html"
+    },
+    {
+      "name": "Stickman Hook",
+      "cover": "/games/selenite/stickman-hook/icon.jpg",
+      "url": "/games/selenite/stickman-hook/index.html"
+    },
+    {
+      "name": "Drift Hunters",
+      "cover": "/games/selenite/drifthunters/icon.png",
+      "url": "/games/selenite/drifthunters/index.html"
+    },
+    {
+      "name": "Rocket League",
+      "cover": "/games/selenite/rocketleague/splash.webp",
+      "url": "/games/selenite/rocketleague/index.html"
+    },
+    {
+      "name": "Little Alchemy",
+      "cover": "/games/selenite/littlealchemy/images/192-alpha.png",
+      "url": "/games/selenite/littlealchemy/index.html"
+    },
+    {
+      "name": "Retro Bowl",
+      "cover": "/games/selenite/retrobowl/img/icon.jpg",
+      "url": "/games/selenite/retrobowl/index.html"
+    },
+    {
+      "name": "Tunnel Rush",
+      "cover": "/games/selenite/tunnelrush/tunnel.jpg",
+      "url": "/games/selenite/tunnelrush/index.html"
+    },
+    {
+      "name": "Moto X3M",
+      "cover": "/games/selenite/motox3m/splash.jpg",
+      "url": "/games/selenite/motox3m/index.html"
+    },
+    {
+      "name": "Moto X3M Winter",
+      "cover": "/games/selenite/motox3m-winter/download.jpeg",
+      "url": "/games/selenite/motox3m-winter/index.html"
+    },
+    {
+      "name": "Moto X3M Pool Party",
+      "cover": "/games/selenite/motox3m-pool/splash.jpg",
+      "url": "/games/selenite/motox3m-pool/index.html"
+    },
+    {
+      "name": "Five Nights at Freddy's",
+      "cover": "/games/selenite/fnaf/splash.jpg",
+      "url": "/games/selenite/fnaf/index.html"
+    },
+    {
+      "name": "Burrito Bison",
+      "cover": "/games/selenite/burritobison/Build/logo.png",
+      "url": "/games/selenite/burritobison/index.html"
+    },
+    {
+      "name": "Cut The Rope Holday",
+      "cover": "/games/selenite/cuttherope-holiday/Holiday_Gift.webp",
+      "url": "/games/selenite/cuttherope-holiday/index.html"
+    },
+    {
+      "name": "Helix Jump",
+      "cover": "/games/selenite/helixjump/gameIcon.png",
+      "url": "/games/selenite/helixjump/index.html"
+    },
+    {
+      "name": "Clicker Heroes",
+      "cover": "/games/selenite/clickerheroes/clicker-heroes.png",
+      "url": "/games/selenite/clickerheroes/index.html"
+    },
+    {
+      "name": "Jetpack Joyride",
+      "cover": "/games/selenite/jetpackjoyride/logo.jpeg",
+      "url": "/games/selenite/jetpackjoyride/index.html"
+    },
+    {
+      "name": "Fruit Ninja",
+      "cover": "/games/selenite/fruitninja/FruitNinjaTeaser.jpg",
+      "url": "/games/selenite/fruitninja/index.html"
+    },
+    {
+      "name": "Tron",
+      "cover": "/games/selenite/tron/icon.png",
+      "url": "/games/selenite/tron/index.html"
+    },
+    {
+      "name": "Thirty Dollar Website",
+      "cover": "/games/selenite/thirtydollarwebsite/assets/🗿.png",
+      "url": "/games/selenite/thirtydollarwebsite/index.html"
+    },
+    {
+      "name": "n-gon",
+      "cover": "/games/selenite/ngon/favicon.ico",
+      "url": "/games/selenite/ngon/index.html"
+    },
+    {
+      "name": "Subway Surfers",
+      "cover": "/games/selenite/subway-surfers-ny/NewYorkIcon.png",
+      "url": "/games/selenite/subway-surfers-ny/index.html"
+    },
+    {
+      "name": "Madalin Cars",
+      "cover": "/games/selenite/madalincars/icon.png",
+      "url": "/games/selenite/madalincars/index.html"
+    },
+    {
+      "name": "Run 3",
+      "cover": "/games/selenite/run3/icon.jpeg",
+      "url": "/games/selenite/run3/index.html"
+    },
+    {
+      "name": "Run",
+      "cover": "/games/selenite/run/icon.jpeg",
+      "url": "/games/selenite/run/index.html"
+    },
+    {
+      "name": "Super Smash Flash",
+      "cover": "/games/selenite/supersmashflash/ssf.jpg",
+      "url": "/games/selenite/supersmashflash/index.html"
+    },
+    {
+      "name": "Stickman Climb",
+      "cover": "/games/selenite/stickmanclimb/icon.avif",
+      "url": "/games/selenite/stickmanclimb/index.html"
+    },
+    {
+      "name": "Getaway Shooter",
+      "cover": "/games/selenite/getawayshooter/Untitled.jpeg",
+      "url": "/games/selenite/getawayshooter/index.html"
+    },
+    {
+      "name": "Riddle School",
+      "cover": "/games/selenite/riddleschool/RiddleSchool2.png",
+      "url": "/games/selenite/riddleschool/index.html"
+    },
+    {
+      "name": "Riddle School 2",
+      "cover": "/games/selenite/riddleschool2/icon.png",
+      "url": "/games/selenite/riddleschool2/index.html"
+    },
+    {
+      "name": "Riddle School 3",
+      "cover": "/games/selenite/riddleschool3/riddle-school-3.webp",
+      "url": "/games/selenite/riddleschool3/index.html"
+    },
+    {
+      "name": "Riddle School 4",
+      "cover": "/games/selenite/riddleschool4/Untitled.jpeg",
+      "url": "/games/selenite/riddleschool4/index.html"
+    },
+    {
+      "name": "Riddle School 5",
+      "cover": "/games/selenite/riddleschool5/Untitled.jpeg",
+      "url": "/games/selenite/riddleschool5/index.html"
+    },
+    {
+      "name": "Riddle Transfer",
+      "cover": "/games/selenite/riddleschooltransfer/Untitled.jpeg",
+      "url": "/games/selenite/riddleschooltransfer/index.html"
+    },
+    {
+      "name": "Riddle Transfer 2",
+      "cover": "/games/selenite/riddleschooltransfer2/aUntitled.jpeg",
+      "url": "/games/selenite/riddleschooltransfer2/index.html"
+    },
+    {
+      "name": "Zombocalypse",
+      "cover": "/games/selenite/zombocalypse/zombocalypse-2.webp",
+      "url": "/games/selenite/zombocalypse/index.html"
+    },
+    {
+      "name": "Papas Burgeria",
+      "cover": "/games/selenite/papasburgeria/images.jpeg",
+      "url": "/games/selenite/papasburgeria/index.html"
+    },
+    {
+      "name": "Duck Life 5",
+      "cover": "/games/selenite/ducklife5/ducklife5.png",
+      "url": "/games/selenite/ducklife5/index.html"
+    },
+    {
+      "name": "Duck Life 6",
+      "cover": "/games/selenite/ducklife6/ducklife5.png",
+      "url": "/games/selenite/ducklife6/index.html"
+    },
+    {
+      "name": "webretro",
+      "cover": "/games/selenite/webretro/assets/icons/icon204.png",
+      "url": "/games/selenite/webretro/index.html"
+    },
+    {
+      "name": "osu!mania (Scratch)",
+      "cover": "/games/selenite/osumania/mania.jpg",
+      "url": "/games/selenite/osumania/index.html"
+    },
+    {
+      "name": "Five Nights at Freddy's 2",
+      "cover": "/games/selenite/fnaf2/project/splash.webp",
+      "url": "/games/selenite/fnaf2/index.html"
+    },
+    {
+      "name": "Five Nights at Freddy's 3",
+      "cover": "/games/selenite/fnaf3/project/splash.webp",
+      "url": "/games/selenite/fnaf3/index.html"
+    },
+    {
+      "name": "Five Nights at Freddy's 4",
+      "cover": "/games/selenite/fnaf4/project/splash.webp",
+      "url": "/games/selenite/fnaf4/index.html"
+    },
+    {
+      "name": "Temple Run 2",
+      "cover": "/games/selenite/templerun2/img/icons/icon-128x128.png",
+      "url": "/games/selenite/templerun2/index.html"
+    },
+    {
+      "name": "Happy Wheels",
+      "cover": "/games/selenite/happywheels/Untitled.jpeg",
+      "url": "/games/selenite/happywheels/index.html"
+    },
+    {
+      "name": "Fireboy & Watergirl 2",
+      "cover": "/games/selenite/fireboywatergirl2/Untitled.jpeg",
+      "url": "/games/selenite/fireboywatergirl2/index.html"
+    },
+    {
+      "name": "Fireboy & Watergirl 3",
+      "cover": "/games/selenite/fireboywatergirl3/icon.png",
+      "url": "/games/selenite/fireboywatergirl3/index.html"
+    },
+    {
+      "name": "Fireboy & Watergirl 4",
+      "cover": "/games/selenite/fireboywatergirl4/300.jpg",
+      "url": "/games/selenite/fireboywatergirl4/index.html"
+    },
+    {
+      "name": "Rise Higher",
+      "cover": "/games/selenite/risehigher/media/graphics/promo/Icons/128x128.png",
+      "url": "/games/selenite/risehigher/index.html"
+    },
+    {
+      "name": "Hextris",
+      "cover": "/games/selenite/hextris/images/icons/apple-touch-152.png",
+      "url": "/games/selenite/hextris/index.html"
+    },
+    {
+      "name": "Sprinter",
+      "cover": "/games/selenite/sprinter/icon.jpeg",
+      "url": "/games/selenite/sprinter/index.html"
+    },
+    {
+      "name": "Amazing Rope Police",
+      "cover": "/games/selenite/amazing-rope-police/splash.jpeg",
+      "url": "/games/selenite/amazing-rope-police/index.html"
+    },
+    {
+      "name": "Geometry Rash",
+      "cover": "/games/selenite/geometryrash/icon-114.png",
+      "url": "/games/selenite/geometryrash/index.html"
+    },
+    {
+      "name": "Bloons Tower Defense",
+      "cover": "/games/selenite/btd/logo.webp",
+      "url": "/games/selenite/btd/index.html"
+    },
+    {
+      "name": "Bloons Tower Defense 2",
+      "cover": "/games/selenite/btd2/logo.webp",
+      "url": "/games/selenite/btd2/index.html"
+    },
+    {
+      "name": "Bloons Tower Defense 4",
+      "cover": "/games/selenite/btd4/logo.jpg",
+      "url": "/games/selenite/btd4/index.html"
+    },
+    {
+      "name": "Bloons Tower Defense 6 (Scratch)",
+      "cover": "/games/selenite/btd6/uwu.png",
+      "url": "/games/selenite/btd6/index.html"
+    },
+    {
+      "name": "Bloons Tower Defense 5",
+      "cover": "/games/selenite/btd5/wogo.png",
+      "url": "/games/selenite/btd5/index.html"
+    },
+    {
+      "name": "Last Horizon",
+      "cover": "/games/selenite/lasthorizon/wogo owo.jpg",
+      "url": "/games/selenite/lasthorizon/index.html"
+    },
+    {
+      "name": "1 on 1 Soccer",
+      "cover": "/games/selenite/1on1soccer/logo.jpg",
+      "url": "/games/selenite/1on1soccer/index.html"
+    },
+    {
+      "name": "Among Us",
+      "cover": "/games/selenite/amongus/amgojs]_.png",
+      "url": "/games/selenite/amongus/index.html"
+    },
+    {
+      "name": "Among Us (better)",
+      "cover": "/games/selenite/amongusnew/amgojs]_.png",
+      "url": "/games/selenite/amongusnew/index.html"
+    },
+    {
+      "name": "Bad Piggies",
+      "cover": "/games/selenite/badpiggies/badpiggies.png",
+      "url": "/games/selenite/badpiggies/index.html"
+    },
+    {
+      "name": "Sandtrix",
+      "cover": "/games/selenite/sandtrix/assets/sprites/appicon.png",
+      "url": "/games/selenite/sandtrix/index.html"
+    },
+    {
+      "name": "Blood Tournament",
+      "cover": "/games/selenite/bloodtournament/blood-tournament.jpg",
+      "url": "/games/selenite/bloodtournament/index.html"
+    },
+    {
+      "name": "Gold Digger FRVR",
+      "cover": "/games/selenite/golddiggerfrvr/images.jpeg",
+      "url": "/games/selenite/golddiggerfrvr/index.html"
+    },
+    {
+      "name": "Retro Bowl College",
+      "cover": "/games/selenite/retrobowlcollege/unnamed.png",
+      "url": "/games/selenite/retrobowlcollege/index.html"
+    },
+    {
+      "name": "We Become What We Behold",
+      "cover": "/games/selenite/wbwwb/wbwwb.webp",
+      "url": "/games/selenite/wbwwb/index.html"
+    },
+    {
+      "name": "Nut Simulator",
+      "cover": "/games/selenite/nutsim/images/icon.png",
+      "url": "/games/selenite/nutsim/index.html"
+    },
+    {
+      "name": "Super Smash Bros",
+      "cover": "/games/selenite/supersmashbros/logo.jpg",
+      "url": "/games/selenite/supersmashbros/index.html"
+    },
+    {
+      "name": "Skibidi 1 v 100",
+      "cover": "/games/selenite/skibiditoilet/logo.png",
+      "url": "/games/selenite/skibiditoilet/index.html"
+    },
+    {
+      "name": "Drive Mad",
+      "cover": "/games/selenite/drivemad/icons/icon-128.png",
+      "url": "/games/selenite/drivemad/index.html"
+    },
+    {
+      "name": "Rooftop Snipers",
+      "cover": "/games/selenite/rooftopsnipers/logo.png",
+      "url": "/games/selenite/rooftopsnipers/index.html"
+    },
+    {
+      "name": "Funny Shooter",
+      "cover": "/games/selenite/funnyshooter/icon.jpeg",
+      "url": "/games/selenite/funnyshooter/index.html"
+    },
+    {
+      "name": "Monkey Mart",
+      "cover": "/games/selenite/monkeymart/unnamed.png",
+      "url": "/games/selenite/monkeymart/index.html"
+    },
+    {
+      "name": "Factory Balls",
+      "cover": "/games/selenite/factoryballs/fac.png",
+      "url": "/games/selenite/factoryballs/index.html"
+    },
+    {
+      "name": "Factory Balls Forever",
+      "cover": "/games/selenite/factoryballsforever/fac.png",
+      "url": "/games/selenite/factoryballsforever/index.html"
+    },
+    {
+      "name": "Funny Shooter 2",
+      "cover": "/games/selenite/funnyshooter2/894abba63a6b23fed823f404831f444f.jpeg",
+      "url": "/games/selenite/funnyshooter2/index.html"
+    },
+    {
+      "name": "Bad Time Simulator",
+      "cover": "/games/selenite/badtimesimulator/icon-114.png",
+      "url": "/games/selenite/badtimesimulator/index.html"
+    },
+    {
+      "name": "Commodore 64 Clicker",
+      "cover": "/games/selenite/commodoreclicker/test.jpg",
+      "url": "/games/selenite/commodoreclicker/index.html"
+    },
+    {
+      "name": "Stickman Boost",
+      "cover": "/games/selenite/stickmanboost/base/img1.jpg",
+      "url": "/games/selenite/stickmanboost/index.html"
+    },
+    {
+      "name": "Stickman Golf",
+      "cover": "/games/selenite/stickmangolf/gold.png",
+      "url": "/games/selenite/stickmangolf/index.html"
+    },
+    {
+      "name": "Basket Bros",
+      "cover": "/games/selenite/basketbros/thumb.jpg",
+      "url": "/games/selenite/basketbros/index.html"
+    },
+    {
+      "name": "justfall.lol",
+      "cover": "/games/selenite/justfalllol/unnamed.png",
+      "url": "/games/selenite/justfalllol/index.html"
+    },
+    {
+      "name": "Doge Miner",
+      "cover": "/games/selenite/dogeminer/img/dogeminer_300x300.png",
+      "url": "/games/selenite/dogeminer/index.html"
+    },
+    {
+      "name": "Soccer Random",
+      "cover": "/games/selenite/soccerrandom/test.png",
+      "url": "/games/selenite/soccerrandom/index.html"
+    },
+    {
+      "name": "Basket Random",
+      "cover": "/games/selenite/basketrandom/test.png",
+      "url": "/games/selenite/basketrandom/index.html"
+    },
+    {
+      "name": "Boxing Random",
+      "cover": "/games/selenite/boxingrandom/512x512.jpg",
+      "url": "/games/selenite/boxingrandom/index.html"
+    },
+    {
+      "name": "Funny Mad Racing",
+      "cover": "/games/selenite/funnymadracing/logo.webp",
+      "url": "/games/selenite/funnymadracing/index.html"
+    },
+    {
+      "name": "hole.io",
+      "cover": "/games/selenite/holeio/feature800x470.png",
+      "url": "/games/selenite/holeio/index.html"
+    },
+    {
+      "name": "Time Shooter",
+      "cover": "/games/selenite/timeshooter1/logo.png",
+      "url": "/games/selenite/timeshooter1/index.html"
+    },
+    {
+      "name": "Time Shooter 2",
+      "cover": "/games/selenite/timeshooter2/ts2.jpg",
+      "url": "/games/selenite/timeshooter2/index.html"
+    },
+    {
+      "name": "Time Shooter 3",
+      "cover": "/games/selenite/timeshooter3/logo.png",
+      "url": "/games/selenite/timeshooter3/index.html"
+    },
+    {
+      "name": "Townscaper",
+      "cover": "/games/selenite/townscaper/icon.png",
+      "url": "/games/selenite/townscaper/index.html"
+    },
+    {
+      "name": "Bad Ice Cream",
+      "cover": "/games/selenite/badicecream/bad-ice-cream.png",
+      "url": "/games/selenite/badicecream/index.html"
+    },
+    {
+      "name": "Bad Ice Cream 2",
+      "cover": "/games/selenite/badicecream2/bad-ice-cream-2.png",
+      "url": "/games/selenite/badicecream2/index.html"
+    },
+    {
+      "name": "Bad Ice Cream 3",
+      "cover": "/games/selenite/badicecream3/bad-ice-cream-3.png",
+      "url": "/games/selenite/badicecream3/index.html"
+    },
+    {
+      "name": "Bob the Robber 2",
+      "cover": "/games/selenite/bobtherobber2/logo.avif",
+      "url": "/games/selenite/bobtherobber2/index.html"
+    },
+    {
+      "name": "Boxing Physics 2",
+      "cover": "/games/selenite/boxingphysics2/icon.png",
+      "url": "/games/selenite/boxingphysics2/index.html"
+    },
+    {
+      "name": "Burger and Frights",
+      "cover": "/games/selenite/burgerandfrights/icon.png",
+      "url": "/games/selenite/burgerandfrights/index.html"
+    },
+    {
+      "name": "Flippy Fish",
+      "cover": "/games/selenite/flippyfish/icon.png",
+      "url": "/games/selenite/flippyfish/index.html"
+    },
+    {
+      "name": "Knife Hit",
+      "cover": "/games/selenite/knifehit/icon.png",
+      "url": "/games/selenite/knifehit/index.html"
+    },
+    {
+      "name": "Lazy Jump 3D",
+      "cover": "/games/selenite/lazyjump3d/icon.png",
+      "url": "/games/selenite/lazyjump3d/index.html"
+    },
+    {
+      "name": "Moto X3M Spooky",
+      "cover": "/games/selenite/motox3m-spooky/icon.png",
+      "url": "/games/selenite/motox3m-spooky/index.html"
+    },
+    {
+      "name": "Rooftop Snipers 2",
+      "cover": "/games/selenite/rooftopsnipers2/icon.png",
+      "url": "/games/selenite/rooftopsnipers2/index.html"
+    },
+    {
+      "name": "Skibidi Toilet Attack",
+      "cover": "/games/selenite/skibiditoiletattack/logo.png",
+      "url": "/games/selenite/skibiditoiletattack/index.html"
+    },
+    {
+      "name": "Tiny Fishing",
+      "cover": "/games/selenite/tinyfishing/tiny-fishing.png",
+      "url": "/games/selenite/tinyfishing/index.html"
+    },
+    {
+      "name": "TU-95",
+      "cover": "/games/selenite/tu95/tu-95.webp",
+      "url": "/games/selenite/tu95/index.html"
+    },
+    {
+      "name": "TU-46",
+      "cover": "/games/selenite/tu46/tu-46.webp",
+      "url": "/games/selenite/tu46/index.html"
+    },
+    {
+      "name": "Russian Car Driver",
+      "cover": "/games/selenite/russiancardriver/russian-car-driver.webp",
+      "url": "/games/selenite/russiancardriver/index.html"
+    },
+    {
+      "name": "Legend of Zelda - Ocarina of Time",
+      "cover": "/games/selenite/ocarinaoftime/oc.jpg",
+      "url": "/games/selenite/ocarinaoftime/index.html"
+    },
+    {
+      "name": "Metroid: Zero Mission",
+      "cover": "/games/selenite/metroidzeromission/zero.jpeg",
+      "url": "/games/selenite/metroidzeromission/index.html"
+    },
+    {
+      "name": "Guilty Gear",
+      "cover": "/games/selenite/guiltygear/ggx.jpg",
+      "url": "/games/selenite/guiltygear/index.html"
+    },
+    {
+      "name": "A Dark Room",
+      "cover": "/games/selenite/adarkroom/favicon.ico",
+      "url": "/games/selenite/adarkroom/index.html"
+    },
+    {
+      "name": "Fancy Pants Adventures",
+      "cover": "/games/selenite/fancypantsadventures/fpa.webp",
+      "url": "/games/selenite/fancypantsadventures/index.html"
+    },
+    {
+      "name": "Fancy Pants Adventures 2",
+      "cover": "/games/selenite/fancypantsadventures2/fpa2.avif",
+      "url": "/games/selenite/fancypantsadventures2/index.html"
+    },
+    {
+      "name": "Line Rider",
+      "cover": "/games/selenite/linerider/boosh.png",
+      "url": "/games/selenite/linerider/index.html"
+    },
+    {
+      "name": "Funny Ball Game",
+      "cover": "/games/selenite/funnyballgame/ball.jpg",
+      "url": "/games/selenite/funnyballgame/index.html"
+    },
+    {
+      "name": "Henry Stickmin - Stealing the Diamond",
+      "cover": "/games/selenite/stealingthediamond/diamante.avif",
+      "url": "/games/selenite/stealingthediamond/index.html"
+    },
+    {
+      "name": "Henry Stickmin - Breaking the Bank",
+      "cover": "/games/selenite/breakingthebank/balling.avif",
+      "url": "/games/selenite/breakingthebank/index.html"
+    },
+    {
+      "name": "Henry Stickmin - Escaping the Prison",
+      "cover": "/games/selenite/escapingtheprison/pwison.avif",
+      "url": "/games/selenite/escapingtheprison/index.html"
+    },
+    {
+      "name": "Henry Stickmin - Fleeing the Complex",
+      "cover": "/games/selenite/fleeingthecomplex/flee.jpg",
+      "url": "/games/selenite/fleeingthecomplex/index.html"
+    },
+    {
+      "name": "Henry Stickmin - Infiltrating the Airship",
+      "cover": "/games/selenite/infiltratingtheairship/air.avif",
+      "url": "/games/selenite/infiltratingtheairship/index.html"
+    },
+    {
+      "name": "Pandemic",
+      "cover": "/games/selenite/pandemic/sddefault.jpg",
+      "url": "/games/selenite/pandemic/index.html"
+    },
+    {
+      "name": "Pandemic 2",
+      "cover": "/games/selenite/pandemic2/pan2.webp",
+      "url": "/games/selenite/pandemic2/index.html"
+    },
+    {
+      "name": "Age of War",
+      "cover": "/games/selenite/ageofwar/warofage.jpg",
+      "url": "/games/selenite/ageofwar/index.html"
+    },
+    {
+      "name": "Soundboard",
+      "cover": "/games/selenite/soundboard/bleep.png",
+      "url": "/games/selenite/soundboard/index.html"
+    },
+    {
+      "name": "The Impossible Quiz",
+      "cover": "/games/selenite/theimpossiblequiz/tiq.avif",
+      "url": "/games/selenite/theimpossiblequiz/index.html"
+    },
+    {
+      "name": "2D Rocket League",
+      "cover": "/games/selenite/2drocketleague/unnamed.png",
+      "url": "/games/selenite/2drocketleague/index.html"
+    },
+    {
+      "name": "Pizza Tower",
+      "cover": "/games/selenite/pizza-tower/favicon.png",
+      "url": "/games/selenite/pizza-tower/index.html"
+    },
+    {
+      "name": "Monster Tracks",
+      "cover": "/games/selenite/monstertracks/webapp/cover.jpg",
+      "url": "/games/selenite/monstertracks/index.html"
+    },
+    {
+      "name": "Battle Simulator",
+      "cover": "/games/selenite/tabs/unnamed.png",
+      "url": "/games/selenite/tabs/index.html"
+    },
+    {
+      "name": "CSGO Case Clicker",
+      "cover": "/games/selenite/csgoclicker/images/case1.png",
+      "url": "/games/selenite/csgoclicker/index.html"
+    },
+    {
+      "name": "The Final Earth 2",
+      "cover": "/games/selenite/thefinalearth2/icons/favicon.png",
+      "url": "/games/selenite/thefinalearth2/index.html"
+    },
+    {
+      "name": "Baldi's Basics",
+      "cover": "/games/selenite/baldis-basics/splash.png",
+      "url": "/games/selenite/baldis-basics/index.html"
+    },
+    {
+      "name": "Cubefield",
+      "cover": "/games/selenite/cubefield/assets/unnamed.png",
+      "url": "/games/selenite/cubefield/index.html"
+    },
+    {
+      "name": "Bit Planes",
+      "cover": "/games/selenite/bit-planes/bitplanes.png",
+      "url": "/games/selenite/bit-planes/index.html"
+    },
+    {
+      "name": "Snow Rider 3D",
+      "cover": "/games/selenite/snowrider3d/snow.png",
+      "url": "/games/selenite/snowrider3d/index.html"
+    },
+    {
+      "name": "Dadish",
+      "cover": "/games/selenite/dadish/favicon.png",
+      "url": "/games/selenite/dadish/index.html"
+    },
+    {
+      "name": "Dadish 2",
+      "cover": "/games/selenite/dadish2/favicon.png",
+      "url": "/games/selenite/dadish2/index.html"
+    },
+    {
+      "name": "Dadish 3",
+      "cover": "/games/selenite/dadish3/splash.png",
+      "url": "/games/selenite/dadish3/index.html"
+    },
+    {
+      "name": "Watermelon Game",
+      "cover": "/games/selenite/watermelongame/assets/sprites/tittle.png",
+      "url": "/games/selenite/watermelongame/index.html"
+    },
+    {
+      "name": "Crimson Fantasia",
+      "cover": "/games/selenite/crimsonfantasia/14qAOu.png",
+      "url": "/games/selenite/crimsonfantasia/index.html"
+    },
+    {
+      "name": "Geometry Dash Lite",
+      "cover": "/games/selenite/gdlite/logo.png",
+      "url": "/games/selenite/gdlite/index.html"
+    },
+    {
+      "name": "Idle Research",
+      "cover": "/games/selenite/idleresearch/cover-1660205761867.png",
+      "url": "/games/selenite/idleresearch/index.html"
+    },
+    {
+      "name": "10 Minutes Till Dawn",
+      "cover": "/games/selenite/10minutestilldawn/splash.png",
+      "url": "/games/selenite/10minutestilldawn/index.html",
+      "special": [
+        "horror"
+      ]
+    },
+    {
+      "name": "Papas Donuteria",
+      "cover": "/games/selenite/papasdonuteria/papasdonuteria.png",
+      "url": "/games/selenite/papasdonuteria/index.html"
+    },
+    {
+      "name": "Papas Pancakeria",
+      "cover": "/games/selenite/papaspancakeria/logo.avif",
+      "url": "/games/selenite/papaspancakeria/index.html"
+    },
+    {
+      "name": "Papas Scooperia",
+      "cover": "/games/selenite/papasscooperia/logo.avif",
+      "url": "/games/selenite/papasscooperia/index.html"
+    },
+    {
+      "name": "Papas Tacomia",
+      "cover": "/games/selenite/papastacomia/logo.avif",
+      "url": "/games/selenite/papastacomia/index.html"
+    },
+    {
+      "name": "Territorial.io",
+      "cover": "/games/selenite/territorialio/territorialio.png",
+      "url": "/games/selenite/territorialio/index.html"
+    },
+    {
+      "name": "Theme Hotel",
+      "cover": "/games/selenite/themehotel/themehotel.png",
+      "url": "/games/selenite/themehotel/index.html"
+    },
+    {
+      "name": "Thumb Fighter",
+      "cover": "/games/selenite/thumbfighter/thumbfighter.png",
+      "url": "/games/selenite/thumbfighter/index.html"
+    },
+    {
+      "name": "The Enchanted Cave 2",
+      "cover": "/games/selenite/enchantedcave2/icon.png",
+      "url": "/games/selenite/enchantedcave2/index.html"
+    },
+    {
+      "name": "Animal Crossing Wild World",
+      "cover": "/games/selenite/animalcrossingwildworld/animalcrossingwildworld.png",
+      "url": "/games/selenite/animalcrossingwildworld/index.html"
+    },
+    {
+      "name": "Banjo Kazooie",
+      "cover": "/games/selenite/banjokazooie/banjokazooie.png",
+      "url": "/games/selenite/banjokazooie/index.html"
+    },
+    {
+      "name": "Donkey Kong 64",
+      "cover": "/games/selenite/donkeykong64/donkeykong64.png",
+      "url": "/games/selenite/donkeykong64/index.html"
+    },
+    {
+      "name": "Doom 64",
+      "cover": "/games/selenite/doom64/doom64.png",
+      "url": "/games/selenite/doom64/index.html"
+    },
+    {
+      "name": "Goldeneye 007",
+      "cover": "/games/selenite/goldeneye/goldeneye007.png",
+      "url": "/games/selenite/goldeneye/index.html"
+    },
+    {
+      "name": "Majora's Mask",
+      "cover": "/games/selenite/majorasmask/majorasmask.png",
+      "url": "/games/selenite/majorasmask/index.html"
+    },
+    {
+      "name": "Mario Kart DS",
+      "cover": "/games/selenite/mariokartds/mariokartds.png",
+      "url": "/games/selenite/mariokartds/index.html"
+    },
+    {
+      "name": "Mario Party",
+      "cover": "/games/selenite/marioparty/marioparty.png",
+      "url": "/games/selenite/marioparty/index.html"
+    },
+    {
+      "name": "Mario Party 2",
+      "cover": "/games/selenite/marioparty2/logo.avif",
+      "url": "/games/selenite/marioparty2/index.html"
+    },
+    {
+      "name": "Mario Party 3",
+      "cover": "/games/selenite/marioparty3/marioparty3.png",
+      "url": "/games/selenite/marioparty3/index.html"
+    },
+    {
+      "name": "Mario Party DS",
+      "cover": "/games/selenite/mariopartyds/mariopartyds.png",
+      "url": "/games/selenite/mariopartyds/index.html"
+    },
+    {
+      "name": "Nintendogs",
+      "cover": "/games/selenite/nintendogs/nintendogs.png",
+      "url": "/games/selenite/nintendogs/index.html"
+    },
+    {
+      "name": "Papas Bakeria",
+      "cover": "/games/selenite/papasbakeria/papasbakeria.png",
+      "url": "/games/selenite/papasbakeria/index.html"
+    },
+    {
+      "name": "Papas Cheeseria",
+      "cover": "/games/selenite/papascheeseria/papascheeseria.png",
+      "url": "/games/selenite/papascheeseria/index.html"
+    },
+    {
+      "name": "Papas Pastaria",
+      "cover": "/games/selenite/papaspastaria/papaspastaria.png",
+      "url": "/games/selenite/papaspastaria/index.html"
+    },
+    {
+      "name": "Papas Sushiria",
+      "cover": "/games/selenite/papassushiria/papassushiria.png",
+      "url": "/games/selenite/papassushiria/index.html"
+    },
+    {
+      "name": "Papas Wingeria",
+      "cover": "/games/selenite/papaswingeria/logo.avif",
+      "url": "/games/selenite/papaswingeria/index.html"
+    },
+    {
+      "name": "Paper Mario",
+      "cover": "/games/selenite/papermario/papermario.png",
+      "url": "/games/selenite/papermario/index.html"
+    },
+    {
+      "name": "Star Fox 64",
+      "cover": "/games/selenite/starfox64/starfox64.png",
+      "url": "/games/selenite/starfox64/index.html"
+    },
+    {
+      "name": "Super Mario 64 DS",
+      "cover": "/games/selenite/supermario64ds/supermario64ds.png",
+      "url": "/games/selenite/supermario64ds/index.html"
+    },
+    {
+      "name": "state.io",
+      "cover": "/games/selenite/stateio/icon.webp",
+      "url": "/games/selenite/stateio/index.html"
+    },
+    {
+      "name": "Draw Climber",
+      "cover": "/games/selenite/drawclimber/assets/gameLogo.png",
+      "url": "/games/selenite/drawclimber/index.html"
+    },
+    {
+      "name": "Polytrack",
+      "cover": "/games/selenite/polytrack/logo.jpg",
+      "url": "/games/selenite/polytrack/index.html"
+    },
+    {
+      "name": "Abuda The Alien",
+      "cover": "/games/selenite/abudathealien/placeholder.png",
+      "url": "/games/selenite/abudathealien/index.html"
+    },
+    {
+      "name": "Advance Wars",
+      "cover": "/games/selenite/advancewars/placeholder.png",
+      "url": "/games/selenite/advancewars/index.html"
+    },
+    {
+      "name": "Advance Wars 2",
+      "cover": "/games/selenite/advancewars2/placeholder.png",
+      "url": "/games/selenite/advancewars2/index.html"
+    },
+    {
+      "name": "Advance Wars: Days of Ruin",
+      "cover": "/games/selenite/advancewarsdayofruin/placeholder.png",
+      "url": "/games/selenite/advancewarsdayofruin/index.html"
+    },
+    {
+      "name": "Adventure Time: Hey Ice King",
+      "cover": "/games/selenite/adventuretime/placeholder.png",
+      "url": "/games/selenite/adventuretime/index.html"
+    },
+    {
+      "name": "Altered Beast",
+      "cover": "/games/selenite/alteredbeast/placeholder.png",
+      "url": "/games/selenite/alteredbeast/index.html"
+    },
+    {
+      "name": "Amorphous",
+      "cover": "/games/selenite/amorphous/placeholder.png",
+      "url": "/games/selenite/amorphous/index.html"
+    },
+    {
+      "name": "Aquapark Slides",
+      "cover": "/games/selenite/aquaparkslides/splash.png",
+      "url": "/games/selenite/aquaparkslides/index.html"
+    },
+    {
+      "name": "Banjo Pilot",
+      "cover": "/games/selenite/banjopilot/banjopilot-sq-1643391580626.jpg",
+      "url": "/games/selenite/banjopilot/index.html"
+    },
+    {
+      "name": "Banjo Tooie",
+      "cover": "/games/selenite/banjotooie/banjo-tooie_7htk.128.webp",
+      "url": "/games/selenite/banjotooie/index.html"
+    },
+    {
+      "name": "Baseball",
+      "cover": "/games/selenite/baseball/CTA.png",
+      "url": "/games/selenite/baseball/index.html"
+    },
+    {
+      "name": "Battle Beavers",
+      "cover": "/games/selenite/battlebeavers/battlebeavers.jpeg",
+      "url": "/games/selenite/battlebeavers/index.html"
+    },
+    {
+      "name": "Battleships",
+      "cover": "/games/selenite/battleships/placeholder.png",
+      "url": "/games/selenite/battleships/index.html"
+    },
+    {
+      "name": "Battletoads",
+      "cover": "/games/selenite/battletoads/placeholder.png",
+      "url": "/games/selenite/battletoads/index.html"
+    },
+    {
+      "name": "Big Red Button",
+      "cover": "/games/selenite/bigredbutton/placeholder.png",
+      "url": "/games/selenite/bigredbutton/index.html"
+    },
+    {
+      "name": "Blocky",
+      "cover": "/games/selenite/blocky/placeholder.png",
+      "url": "/games/selenite/blocky/index.html"
+    },
+    {
+      "name": "Bloxorz",
+      "cover": "/games/selenite/bloxors/placeholder.png",
+      "url": "/games/selenite/bloxors/index.html"
+    },
+    {
+      "name": "Bomberman",
+      "cover": "/games/selenite/bomberman/placeholder.png",
+      "url": "/games/selenite/bomberman/index.html"
+    },
+    {
+      "name": "Mario and Luigi: Bowser's Inside Story",
+      "cover": "/games/selenite/bowsersinsidestory/placeholder.png",
+      "url": "/games/selenite/bowsersinsidestory/index.html"
+    },
+    {
+      "name": "Bubble Tanks 2",
+      "cover": "/games/selenite/bubbletanks2/placeholder.png",
+      "url": "/games/selenite/bubbletanks2/index.html"
+    },
+    {
+      "name": "Canopy",
+      "cover": "/games/selenite/canopy/placeholder.png",
+      "url": "/games/selenite/canopy/index.html"
+    },
+    {
+      "name": "Cars 2",
+      "cover": "/games/selenite/cars2/placeholder.png",
+      "url": "/games/selenite/cars2/index.html"
+    },
+    {
+      "name": "Castlevania",
+      "cover": "/games/selenite/castlevania/placeholder.png",
+      "url": "/games/selenite/castlevania/index.html"
+    },
+    {
+      "name": "Castlevania: Aria of Sorrow",
+      "cover": "/games/selenite/castlevaniaariaofsorrow/placeholder.png",
+      "url": "/games/selenite/castlevaniaariaofsorrow/index.html"
+    },
+    {
+      "name": "Castlevania: Dawn of Sorrow",
+      "cover": "/games/selenite/castlevaniadawnofsorrow/placeholder.png",
+      "url": "/games/selenite/castlevaniadawnofsorrow/index.html"
+    },
+    {
+      "name": "Castlevania III",
+      "cover": "/games/selenite/castlevaniaiii/placeholder.png",
+      "url": "/games/selenite/castlevaniaiii/index.html"
+    },
+    {
+      "name": "Castlevania: Order of Ecclesia",
+      "cover": "/games/selenite/castlevaniaorderofecclesia/placeholder.png",
+      "url": "/games/selenite/castlevaniaorderofecclesia/index.html"
+    },
+    {
+      "name": "Cave Chaos",
+      "cover": "/games/selenite/cavechaos/placeholder.png",
+      "url": "/games/selenite/cavechaos/index.html"
+    },
+    {
+      "name": "changetype",
+      "cover": "/games/selenite/changetype/placeholder.png",
+      "url": "/games/selenite/changetype/index.html"
+    },
+    {
+      "name": "Cheese Dreams",
+      "cover": "/games/selenite/cheesedreams/placeholder.png",
+      "url": "/games/selenite/cheesedreams/index.html"
+    },
+    {
+      "name": "Chisel",
+      "cover": "/games/selenite/chisel/placeholder.png",
+      "url": "/games/selenite/chisel/index.html"
+    },
+    {
+      "name": "Chisel 2",
+      "cover": "/games/selenite/chisel2/placeholder.png",
+      "url": "/games/selenite/chisel2/index.html"
+    },
+    {
+      "name": "Choose Your Weapon",
+      "cover": "/games/selenite/chooseyourweapon/placeholder.png",
+      "url": "/games/selenite/chooseyourweapon/index.html"
+    },
+    {
+      "name": "Choose Your Weapon 2",
+      "cover": "/games/selenite/chooseyourweapon2/placeholder.png",
+      "url": "/games/selenite/chooseyourweapon2/index.html"
+    },
+    {
+      "name": "Choose Your Weapon 3",
+      "cover": "/games/selenite/chooseyourweapon3/placeholder.png",
+      "url": "/games/selenite/chooseyourweapon3/index.html"
+    },
+    {
+      "name": "Chrono Trigger",
+      "cover": "/games/selenite/chronotrigger/placeholder.png",
+      "url": "/games/selenite/chronotrigger/index.html"
+    },
+    {
+      "name": "Comix Zone",
+      "cover": "/games/selenite/comixzone/placeholder.png",
+      "url": "/games/selenite/comixzone/index.html"
+    },
+    {
+      "name": "Contra",
+      "cover": "/games/selenite/contra/placeholder.png",
+      "url": "/games/selenite/contra/index.html"
+    },
+    {
+      "name": "Contra III",
+      "cover": "/games/selenite/contraiii/placeholder.png",
+      "url": "/games/selenite/contraiii/index.html"
+    },
+    {
+      "name": "Control Craft 2",
+      "cover": "/games/selenite/controlcraft2/placeholder.png",
+      "url": "/games/selenite/controlcraft2/index.html"
+    },
+    {
+      "name": "Crush The Castle",
+      "cover": "/games/selenite/crushthecastle/placeholder.png",
+      "url": "/games/selenite/crushthecastle/index.html"
+    },
+    {
+      "name": "Crush The Castle 2",
+      "cover": "/games/selenite/crushthecastle2/placeholder.png",
+      "url": "/games/selenite/crushthecastle2/index.html"
+    },
+    {
+      "name": "Daggerfall",
+      "cover": "/games/selenite/daggerfall/placeholder.png",
+      "url": "/games/selenite/daggerfall/index.html"
+    },
+    {
+      "name": "Dragon Ball Z: Supersonic Warriors",
+      "cover": "/games/selenite/dbzsupersonicwarriors/placeholder.png",
+      "url": "/games/selenite/dbzsupersonicwarriors/index.html"
+    },
+    {
+      "name": "Defend the Tank",
+      "cover": "/games/selenite/defendthetank/landscape.jpg",
+      "url": "/games/selenite/defendthetank/index.html"
+    },
+    {
+      "name": "Diddy Kong Racing",
+      "cover": "/games/selenite/diddykongracing/placeholder.png",
+      "url": "/games/selenite/diddykongracing/index.html"
+    },
+    {
+      "name": "Ditto",
+      "cover": "/games/selenite/ditto/placeholder.png",
+      "url": "/games/selenite/ditto/index.html"
+    },
+    {
+      "name": "Doge Miner 2",
+      "cover": "/games/selenite/dogeminer2/dogeloader.svg",
+      "url": "/games/selenite/dogeminer2/index.html"
+    },
+    {
+      "name": "Donkey Kong Country",
+      "cover": "/games/selenite/donkeykongcountry/placeholder.png",
+      "url": "/games/selenite/donkeykongcountry/index.html"
+    },
+    {
+      "name": "Donkey Kong Country 2",
+      "cover": "/games/selenite/donkeykongcountry2/placeholder.png",
+      "url": "/games/selenite/donkeykongcountry2/index.html"
+    },
+    {
+      "name": "Donkey Kong Country 3",
+      "cover": "/games/selenite/donkeykongcountry3/placeholder.png",
+      "url": "/games/selenite/donkeykongcountry3/index.html"
+    },
+    {
+      "name": "Donkey Kong Land",
+      "cover": "/games/selenite/donkeykongland/placeholder.png",
+      "url": "/games/selenite/donkeykongland/index.html"
+    },
+    {
+      "name": "Doodle Defender",
+      "cover": "/games/selenite/doodledefender/placeholder.png",
+      "url": "/games/selenite/doodledefender/index.html"
+    },
+    {
+      "name": "Doom2",
+      "cover": "/games/selenite/doom2/placeholder.png",
+      "url": "/games/selenite/doom2/index.html"
+    },
+    {
+      "name": "Dragon Boy 2",
+      "cover": "/games/selenite/dragonboy2/placeholder.png",
+      "url": "/games/selenite/dragonboy2/index.html"
+    },
+    {
+      "name": "Drill Dozer",
+      "cover": "/games/selenite/drilldozer/placeholder.png",
+      "url": "/games/selenite/drilldozer/index.html"
+    },
+    {
+      "name": "Dr Mario",
+      "cover": "/games/selenite/drmario/placeholder.png",
+      "url": "/games/selenite/drmario/index.html"
+    },
+    {
+      "name": "Duck Life 7",
+      "cover": "/games/selenite/ducklifebattle/logo.png",
+      "url": "/games/selenite/ducklifebattle/index.html"
+    },
+    {
+      "name": "DuckTales",
+      "cover": "/games/selenite/ducktales/placeholder.png",
+      "url": "/games/selenite/ducktales/index.html"
+    },
+    {
+      "name": "Duke Nukem 64",
+      "cover": "/games/selenite/dukenukem64/placeholder.png",
+      "url": "/games/selenite/dukenukem64/index.html"
+    },
+    {
+      "name": "Duke Nukem Advance",
+      "cover": "/games/selenite/dukenukemadvance/placeholder.png",
+      "url": "/games/selenite/dukenukemadvance/index.html"
+    },
+    {
+      "name": "Earthbound",
+      "cover": "/games/selenite/earthbound/placeholder.png",
+      "url": "/games/selenite/earthbound/index.html"
+    },
+    {
+      "name": "Ecco the Dolphin",
+      "cover": "/games/selenite/eccothedolphin/placeholder.png",
+      "url": "/games/selenite/eccothedolphin/index.html"
+    },
+    {
+      "name": "Electric Box",
+      "cover": "/games/selenite/electricbox/placeholder.png",
+      "url": "/games/selenite/electricbox/index.html"
+    },
+    {
+      "name": "Electric Man 2",
+      "cover": "/games/selenite/electricman2/placeholder.png",
+      "url": "/games/selenite/electricman2/index.html"
+    },
+    {
+      "name": "Epic Battle Fantasy",
+      "cover": "/games/selenite/epicbattlefantasy/placeholder.png",
+      "url": "/games/selenite/epicbattlefantasy/index.html"
+    },
+    {
+      "name": "Epic Battle Fantasy 2",
+      "cover": "/games/selenite/epicbattlefantasy2/placeholder.png",
+      "url": "/games/selenite/epicbattlefantasy2/index.html"
+    },
+    {
+      "name": "Epic Battle Fantasy 3",
+      "cover": "/games/selenite/epicbattlefantasy3/placeholder.png",
+      "url": "/games/selenite/epicbattlefantasy3/index.html"
+    },
+    {
+      "name": "Excitebike 64",
+      "cover": "/games/selenite/excitebike64/placeholder.png",
+      "url": "/games/selenite/excitebike64/index.html"
+    },
+    {
+      "name": "Extreme Run 3D",
+      "cover": "/games/selenite/extremerun/logo.png",
+      "url": "/games/selenite/extremerun/index.html"
+    },
+    {
+      "name": "Fallout",
+      "cover": "/games/selenite/fallout/placeholder.png",
+      "url": "/games/selenite/fallout/index.html"
+    },
+    {
+      "name": "Feed Me",
+      "cover": "/games/selenite/feedme/placeholder.png",
+      "url": "/games/selenite/feedme/index.html"
+    },
+    {
+      "name": "Fire Fantasy: Tactics Advance",
+      "cover": "/games/selenite/finalfantasytacticsadvance/placeholder.png",
+      "url": "/games/selenite/finalfantasytacticsadvance/index.html"
+    },
+    {
+      "name": "Final Fantasy VI",
+      "cover": "/games/selenite/finalfantasyvi/placeholder.png",
+      "url": "/games/selenite/finalfantasyvi/index.html"
+    },
+    {
+      "name": "Final Ninja",
+      "cover": "/games/selenite/finalninja/placeholder.png",
+      "url": "/games/selenite/finalninja/index.html"
+    },
+    {
+      "name": "Fire Emblem",
+      "cover": "/games/selenite/fireemblem/placeholder.png",
+      "url": "/games/selenite/fireemblem/index.html"
+    },
+    {
+      "name": "Flood Runner 2",
+      "cover": "/games/selenite/floodrunner2/placeholder.png",
+      "url": "/games/selenite/floodrunner2/index.html"
+    },
+    {
+      "name": "Flood Runner 3",
+      "cover": "/games/selenite/floodrunner3/placeholder.png",
+      "url": "/games/selenite/floodrunner3/index.html"
+    },
+    {
+      "name": "Five Nights at Freddy's Pizzeria Simulator",
+      "cover": "/games/selenite/fnaf-ps/favicon.ico",
+      "url": "/games/selenite/fnaf-ps/index.html"
+    },
+    {
+      "name": "Five Nights at Freddy's Sister Location",
+      "cover": "/games/selenite/fnaf-sl/logo.png",
+      "url": "/games/selenite/fnaf-sl/index.html"
+    },
+    {
+      "name": "Five Nights at Freddy's UCN",
+      "cover": "/games/selenite/fnaf-ucn/logo.avif",
+      "url": "/games/selenite/fnaf-ucn/index.html"
+    },
+    {
+      "name": "Five Nights at Freddy's 4 Halloween",
+      "cover": "/games/selenite/fnaf4-halloween/logo.avif",
+      "url": "/games/selenite/fnaf4-halloween/index.html"
+    },
+    {
+      "name": "Five Nights at Freddy's World",
+      "cover": "/games/selenite/fnafworld/favicon.ico",
+      "url": "/games/selenite/fnafworld/index.html"
+    },
+    {
+      "name": "Frostbite",
+      "cover": "/games/selenite/frostbite/placeholder.png",
+      "url": "/games/selenite/frostbite/index.html"
+    },
+    {
+      "name": "Frostbite 2",
+      "cover": "/games/selenite/frostbite2/placeholder.png",
+      "url": "/games/selenite/frostbite2/index.html"
+    },
+    {
+      "name": "F-Zero",
+      "cover": "/games/selenite/fzero/placeholder.png",
+      "url": "/games/selenite/fzero/index.html"
+    },
+    {
+      "name": "F-Zero X",
+      "cover": "/games/selenite/fzerox/placeholder.png",
+      "url": "/games/selenite/fzerox/index.html"
+    },
+    {
+      "name": "Garfield Gets Real",
+      "cover": "/games/selenite/garfieldgetsreal/placeholder.png",
+      "url": "/games/selenite/garfieldgetsreal/index.html"
+    },
+    {
+      "name": "Gex 64",
+      "cover": "/games/selenite/gex64/placeholder.png",
+      "url": "/games/selenite/gex64/index.html"
+    },
+    {
+      "name": "Go Ball",
+      "cover": "/games/selenite/goball/game.jpg",
+      "url": "/games/selenite/goball/index.html"
+    },
+    {
+      "name": "Golden Axe",
+      "cover": "/games/selenite/goldenaxe/placeholder.png",
+      "url": "/games/selenite/goldenaxe/index.html"
+    },
+    {
+      "name": "Golden Sun",
+      "cover": "/games/selenite/goldensun/placeholder.png",
+      "url": "/games/selenite/goldensun/index.html"
+    },
+    {
+      "name": "Gunstar Heroes",
+      "cover": "/games/selenite/gunstarheroes/placeholder.png",
+      "url": "/games/selenite/gunstarheroes/index.html"
+    },
+    {
+      "name": "Harvest Moon",
+      "cover": "/games/selenite/harvestmoon/placeholder.png",
+      "url": "/games/selenite/harvestmoon/index.html"
+    },
+    {
+      "name": "Harvest Moon 64",
+      "cover": "/games/selenite/harvestmoon64/placeholder.png",
+      "url": "/games/selenite/harvestmoon64/index.html"
+    },
+    {
+      "name": "Hero 3: Flying Robot",
+      "cover": "/games/selenite/hero3/logo.avif",
+      "url": "/games/selenite/hero3/index.html"
+    },
+    {
+      "name": "Icebreaker",
+      "cover": "/games/selenite/icebreaker/placeholder.png",
+      "url": "/games/selenite/icebreaker/index.html"
+    },
+    {
+      "name": "Ice Climber",
+      "cover": "/games/selenite/iceclimber/placeholder.png",
+      "url": "/games/selenite/iceclimber/index.html"
+    },
+    {
+      "name": "Illusion of Gaia",
+      "cover": "/games/selenite/illusionofgaia/placeholder.png",
+      "url": "/games/selenite/illusionofgaia/index.html"
+    },
+    {
+      "name": "Jet Force Gemini",
+      "cover": "/games/selenite/jetforcegemini/placeholder.png",
+      "url": "/games/selenite/jetforcegemini/index.html"
+    },
+    {
+      "name": "Jetski Race",
+      "cover": "/games/selenite/jetskirace/loading.png",
+      "url": "/games/selenite/jetskirace/index.html"
+    },
+    {
+      "name": "Just Hit The Button",
+      "cover": "/games/selenite/justhitthebutton/placeholder.png",
+      "url": "/games/selenite/justhitthebutton/index.html"
+    },
+    {
+      "name": "Kid Icarus",
+      "cover": "/games/selenite/kidicarus/placeholder.png",
+      "url": "/games/selenite/kidicarus/index.html"
+    },
+    {
+      "name": "Kirby 64",
+      "cover": "/games/selenite/kirby64/placeholder.png",
+      "url": "/games/selenite/kirby64/index.html"
+    },
+    {
+      "name": "Kirby and the Amazing Mirror",
+      "cover": "/games/selenite/kirbyamazingmirror/placeholder.png",
+      "url": "/games/selenite/kirbyamazingmirror/index.html"
+    },
+    {
+      "name": "Kirby Mass Attack",
+      "cover": "/games/selenite/kirbymassattack/placeholder.png",
+      "url": "/games/selenite/kirbymassattack/index.html"
+    },
+    {
+      "name": "Kirby: Power Paintbrush",
+      "cover": "/games/selenite/kirbypowerpaintbrush/placeholder.png",
+      "url": "/games/selenite/kirbypowerpaintbrush/index.html"
+    },
+    {
+      "name": "Kirby's Dream Land",
+      "cover": "/games/selenite/kirbysdreamland/placeholder.png",
+      "url": "/games/selenite/kirbysdreamland/index.html"
+    },
+    {
+      "name": "Kirby's Dream Land 2",
+      "cover": "/games/selenite/kirbysdreamland2/placeholder.png",
+      "url": "/games/selenite/kirbysdreamland2/index.html"
+    },
+    {
+      "name": "Lego Batman",
+      "cover": "/games/selenite/legobatman/placeholder.png",
+      "url": "/games/selenite/legobatman/index.html"
+    },
+    {
+      "name": "Links Awakening DX",
+      "cover": "/games/selenite/linksawakeningdx/placeholder.png",
+      "url": "/games/selenite/linksawakeningdx/index.html"
+    },
+    {
+      "name": "The Legend of Zelda: A Link To The Past",
+      "cover": "/games/selenite/linktothepast/alinktothepast.png",
+      "url": "/games/selenite/linktothepast/index.html"
+    },
+    {
+      "name": "Mario and Luigi: Partners in Time",
+      "cover": "/games/selenite/marioandluigipartnersintime/placeholder.png",
+      "url": "/games/selenite/marioandluigipartnersintime/index.html"
+    },
+    {
+      "name": "Mario Combat",
+      "cover": "/games/selenite/mariocombat/placeholder.png",
+      "url": "/games/selenite/mariocombat/index.html"
+    },
+    {
+      "name": "Mario Golf",
+      "cover": "/games/selenite/mariogolf/placeholder.png",
+      "url": "/games/selenite/mariogolf/index.html"
+    },
+    {
+      "name": "Mario Kart 64",
+      "cover": "/games/selenite/mariokart64/placeholder.png",
+      "url": "/games/selenite/mariokart64/index.html"
+    },
+    {
+      "name": "Mario Kart Super Circuit",
+      "cover": "/games/selenite/mariokartsupercircuit/placeholder.png",
+      "url": "/games/selenite/mariokartsupercircuit/index.html"
+    },
+    {
+      "name": "Mario Paint",
+      "cover": "/games/selenite/mariopaint/placeholder.png",
+      "url": "/games/selenite/mariopaint/index.html"
+    },
+    {
+      "name": "Mario Party Advance",
+      "cover": "/games/selenite/mariopartyadvance/placeholder.png",
+      "url": "/games/selenite/mariopartyadvance/index.html"
+    },
+    {
+      "name": "Mario Pinball Land",
+      "cover": "/games/selenite/mariopinballland/placeholder.png",
+      "url": "/games/selenite/mariopinballland/index.html"
+    },
+    {
+      "name": "Mario Tennis",
+      "cover": "/games/selenite/mariotennis/placeholder.png",
+      "url": "/games/selenite/mariotennis/index.html"
+    },
+    {
+      "name": "Mega Man X",
+      "cover": "/games/selenite/megamanx/megamanx.jpg",
+      "url": "/games/selenite/megamanx/index.html"
+    },
+    {
+      "name": "Mega Man Zero",
+      "cover": "/games/selenite/megamanzero/Mega_Man_Zero_cover.jpg",
+      "url": "/games/selenite/megamanzero/index.html"
+    },
+    {
+      "name": "Metal Gear Solid",
+      "cover": "/games/selenite/metalgearsolid/Metal_Gear_Solid_cover_art.png",
+      "url": "/games/selenite/metalgearsolid/index.html"
+    },
+    {
+      "name": "Metroid",
+      "cover": "/games/selenite/metroid/metroi.jpg",
+      "url": "/games/selenite/metroid/index.html"
+    },
+    {
+      "name": "Metroid Fusion",
+      "cover": "/games/selenite/metroidfusion/Metroid_Fusion_box.jpg",
+      "url": "/games/selenite/metroidfusion/index.html"
+    },
+    {
+      "name": "Metroid II",
+      "cover": "/games/selenite/metroidii/metroid2.png",
+      "url": "/games/selenite/metroidii/index.html"
+    },
+    {
+      "name": "Minisho",
+      "cover": "/games/selenite/minisho/512.png",
+      "url": "/games/selenite/minisho/index.html"
+    },
+    {
+      "name": "Monopoly",
+      "cover": "/games/selenite/monopoly/monopoly.jpg",
+      "url": "/games/selenite/monopoly/index.html"
+    },
+    {
+      "name": "Monster Brawl",
+      "cover": "/games/selenite/monsterbrawl/monsterbrawl.jpeg",
+      "url": "/games/selenite/monsterbrawl/index.html"
+    },
+    {
+      "name": "Mortal Kombat 4",
+      "cover": "/games/selenite/mortalkombat4/Mortal_Kombat_4_cover.jpg",
+      "url": "/games/selenite/mortalkombat4/index.html"
+    },
+    {
+      "name": "Mother 3",
+      "cover": "/games/selenite/mother3/mother3.jpg",
+      "url": "/games/selenite/mother3/index.html"
+    },
+    {
+      "name": "Multitask",
+      "cover": "/games/selenite/multitask/multittaks.png",
+      "url": "/games/selenite/multitask/index.html"
+    },
+    {
+      "name": "Mystical Ninja Starring Goemon",
+      "cover": "/games/selenite/mysticalninja/mysticalninja.jpeg",
+      "url": "/games/selenite/mysticalninja/index.html"
+    },
+    {
+      "name": "Neon Rider",
+      "cover": "/games/selenite/neonrider/neonrider.png",
+      "url": "/games/selenite/neonrider/index.html"
+    },
+    {
+      "name": "New Super Mario Bros",
+      "cover": "/games/selenite/newsupermariobros/newsupermariobros.jpg",
+      "url": "/games/selenite/newsupermariobros/index.html"
+    },
+    {
+      "name": "Ninja Gaiden",
+      "cover": "/games/selenite/ninjagaiden/ninjagaiden.jpeg",
+      "url": "/games/selenite/ninjagaiden/index.html"
+    },
+    {
+      "name": "Oodlegobs",
+      "cover": "/games/selenite/oodlegobs/oddlegobs.jpeg",
+      "url": "/games/selenite/oodlegobs/index.html"
+    },
+    {
+      "name": "Pacman World",
+      "cover": "/games/selenite/pacmanworld/pacmanworld.jpeg",
+      "url": "/games/selenite/pacmanworld/index.html"
+    },
+    {
+      "name": "Papa's Hotdoggeria",
+      "cover": "/games/selenite/papashotdoggeria/papashotdoggeria.png",
+      "url": "/games/selenite/papashotdoggeria/index.html"
+    },
+    {
+      "name": "Phantasy Star IV",
+      "cover": "/games/selenite/phantasystariv/phantasystar4-sq-1643743320841.jpg",
+      "url": "/games/selenite/phantasystariv/index.html"
+    },
+    {
+      "name": "Picross DS",
+      "cover": "/games/selenite/picrossds/picrossds-1649613023700.jpg",
+      "url": "/games/selenite/picrossds/index.html"
+    },
+    {
+      "name": "Portal (Flash)",
+      "cover": "/games/selenite/portalflash/portal.ico",
+      "url": "/games/selenite/portalflash/index.html"
+    },
+    {
+      "name": "Portal 2 (Flash)",
+      "cover": "/games/selenite/portal2flash/portal2flash.jpeg",
+      "url": "/games/selenite/portal2flash/index.html"
+    },
+    {
+      "name": "Professor Layton and the Curious Village",
+      "cover": "/games/selenite/professorlayton/professor-layton-and-the-curious-village-button-1641604221842.jpg",
+      "url": "/games/selenite/professorlayton/index.html"
+    },
+    {
+      "name": "Quest 64",
+      "cover": "/games/selenite/quest64/quest64.jpg",
+      "url": "/games/selenite/quest64/index.html"
+    },
+    {
+      "name": "Rabbit Samurai",
+      "cover": "/games/selenite/rabbitsamurai/icon-256.png",
+      "url": "/games/selenite/rabbitsamurai/index.html"
+    },
+    {
+      "name": "Raft Wars",
+      "cover": "/games/selenite/raftwars/raft-wars.avif",
+      "url": "/games/selenite/raftwars/index.html"
+    },
+    {
+      "name": "Raft Wars 2",
+      "cover": "/games/selenite/raftwars2/raft-wars-2.avif",
+      "url": "/games/selenite/raftwars2/index.html"
+    },
+    {
+      "name": "Ranger X",
+      "cover": "/games/selenite/rangerx/rangerx-1660932921478.jpg",
+      "url": "/games/selenite/rangerx/index.html"
+    },
+    {
+      "name": "Rayman 3",
+      "cover": "/games/selenite/rayman3/rayman3.jpeg",
+      "url": "/games/selenite/rayman3/index.html"
+    },
+    {
+      "name": "Ristar",
+      "cover": "/games/selenite/ristar/ristart.jpeg",
+      "url": "/games/selenite/ristar/index.html"
+    },
+    {
+      "name": "Rocket Soccer",
+      "cover": "/games/selenite/rocketsoccer/splash.webp",
+      "url": "/games/selenite/rocketsoccer/index.html"
+    },
+    {
+      "name": "Rogue",
+      "cover": "/games/selenite/rogue/rogue.png",
+      "url": "/games/selenite/rogue/index.html"
+    },
+    {
+      "name": "Sandboxcity",
+      "cover": "/games/selenite/sandboxcity/Icon_512x512.png",
+      "url": "/games/selenite/sandboxcity/index.html"
+    },
+    {
+      "name": "Scribblenauts",
+      "cover": "/games/selenite/scribblenauts/scribblenauts.jpg",
+      "url": "/games/selenite/scribblenauts/index.html"
+    },
+    {
+      "name": "Shift",
+      "cover": "/games/selenite/shift/shift.png",
+      "url": "/games/selenite/shift/index.html"
+    },
+    {
+      "name": "Shift 2",
+      "cover": "/games/selenite/shift2/shift2.jpeg",
+      "url": "/games/selenite/shift2/index.html"
+    },
+    {
+      "name": "Shift 3",
+      "cover": "/games/selenite/shift3/shift3.png",
+      "url": "/games/selenite/shift3/index.html"
+    },
+    {
+      "name": "Shift 4",
+      "cover": "/games/selenite/shift4/Shift-4.webp",
+      "url": "/games/selenite/shift4/index.html"
+    },
+    {
+      "name": "Shining Force",
+      "cover": "/games/selenite/shiningforce/shiningforce-1650610401497.jpg",
+      "url": "/games/selenite/shiningforce/index.html"
+    },
+    {
+      "name": "Shinobi III - Return of the Ninja Master",
+      "cover": "/games/selenite/shinobiiii/shinobi3-sq-1643745022344.jpg",
+      "url": "/games/selenite/shinobiiii/index.html"
+    },
+    {
+      "name": "Shop Empire",
+      "cover": "/games/selenite/shopempire/shopempire.jpg",
+      "url": "/games/selenite/shopempire/index.html"
+    },
+    {
+      "name": "Shop Empire Fable",
+      "cover": "/games/selenite/shopempirefable/Shop-Empire-Fable.jpg",
+      "url": "/games/selenite/shopempirefable/index.html"
+    },
+    {
+      "name": "Shrek 2",
+      "cover": "/games/selenite/shrek2/shrek2.jpg",
+      "url": "/games/selenite/shrek2/index.html"
+    },
+    {
+      "name": "The Simpsons: Road Rage",
+      "cover": "/games/selenite/simpsonsroadrage/simpsonsroadrage.jpeg",
+      "url": "/games/selenite/simpsonsroadrage/index.html"
+    },
+    {
+      "name": "Skywire",
+      "cover": "/games/selenite/skywire/skywire.png",
+      "url": "/games/selenite/skywire/index.html"
+    },
+    {
+      "name": "Skywire 2",
+      "cover": "/games/selenite/skywire2/skywire-2-html5.avif",
+      "url": "/games/selenite/skywire2/index.html"
+    },
+    {
+      "name": "Sonic Rush",
+      "cover": "/games/selenite/sonicrush/sonicrush.jpeg",
+      "url": "/games/selenite/sonicrush/index.html"
+    },
+    {
+      "name": "Sonic Spinball",
+      "cover": "/games/selenite/sonicspinball/sonicspinball.ico",
+      "url": "/games/selenite/sonicspinball/index.html"
+    },
+    {
+      "name": "Sort the Court",
+      "cover": "/games/selenite/sortthecourt/img/logo.avif",
+      "url": "/games/selenite/sortthecourt/index.html"
+    },
+    {
+      "name": "Space Invaders",
+      "cover": "/games/selenite/spaceinvaders/spaceinvaders.png",
+      "url": "/games/selenite/spaceinvaders/index.html"
+    },
+    {
+      "name": "The Legend of Zelda: Spirit Tracks",
+      "cover": "/games/selenite/spirittracks/The_Legend_of_Zelda_Spirit_Tracks_box_art.jpg",
+      "url": "/games/selenite/spirittracks/index.html"
+    },
+    {
+      "name": "Stair Race 3D",
+      "cover": "/games/selenite/stairrace3d/favicon.ico",
+      "url": "/games/selenite/stairrace3d/index.html"
+    },
+    {
+      "name": "Steak and Jake",
+      "cover": "/games/selenite/steakandjake/steakandjake.png",
+      "url": "/games/selenite/steakandjake/index.html"
+    },
+    {
+      "name": "Stick Kombat",
+      "cover": "/games/selenite/stickkombat/stickman-kombat.avif",
+      "url": "/games/selenite/stickkombat/index.html"
+    },
+    {
+      "name": "Stick War 2",
+      "cover": "/games/selenite/stickwar2/stickwar2.avif",
+      "url": "/games/selenite/stickwar2/index.html"
+    },
+    {
+      "name": "Street Fighter 2",
+      "cover": "/games/selenite/streetfighter2/streetfighter2.png",
+      "url": "/games/selenite/streetfighter2/index.html"
+    },
+    {
+      "name": "Streets of Rage",
+      "cover": "/games/selenite/streetsofrage/streetsofrage.jpeg",
+      "url": "/games/selenite/streetsofrage/index.html"
+    },
+    {
+      "name": "Streets of Rage 2",
+      "cover": "/games/selenite/streetsofrage2/streetsofrage2.jpeg",
+      "url": "/games/selenite/streetsofrage2/index.html"
+    },
+    {
+      "name": "Super Bomberman",
+      "cover": "/games/selenite/superbomberman/superbomberman.png",
+      "url": "/games/selenite/superbomberman/index.html"
+    },
+    {
+      "name": "Superhero Drop",
+      "cover": "/games/selenite/superherodrop/superhero drop.webp",
+      "url": "/games/selenite/superherodrop/index.html"
+    },
+    {
+      "name": "Super Mario Bros",
+      "cover": "/games/selenite/supermariobros/supermariobros.webp",
+      "url": "/games/selenite/supermariobros/index.html"
+    },
+    {
+      "name": "Super Mario Bros 2",
+      "cover": "/games/selenite/supermariobros2/supermariobros2.jpeg",
+      "url": "/games/selenite/supermariobros2/index.html"
+    },
+    {
+      "name": "Super Mario Bros 3",
+      "cover": "/games/selenite/supermariobros3/smb3-1709899677898.webp",
+      "url": "/games/selenite/supermariobros3/index.html"
+    },
+    {
+      "name": "Super Mario Kart",
+      "cover": "/games/selenite/supermariokart/logo.avif",
+      "url": "/games/selenite/supermariokart/index.html"
+    },
+    {
+      "name": "Super Mario Land",
+      "cover": "/games/selenite/supermarioland/supermarioland.jpeg",
+      "url": "/games/selenite/supermarioland/index.html"
+    },
+    {
+      "name": "Super Mario Land 2",
+      "cover": "/games/selenite/supermarioland2/supermarioland2.jpg",
+      "url": "/games/selenite/supermarioland2/index.html"
+    },
+    {
+      "name": "Super Mario RPG",
+      "cover": "/games/selenite/supermariorpg/super-mario-rpg-remake_krwz.128.webp",
+      "url": "/games/selenite/supermariorpg/index.html"
+    },
+    {
+      "name": "Super Mario World",
+      "cover": "/games/selenite/supermarioworld/super-mario-world-1709899758057.webp",
+      "url": "/games/selenite/supermarioworld/index.html"
+    },
+    {
+      "name": "Super Metroid",
+      "cover": "/games/selenite/supermetroid/supermetroid.jpeg",
+      "url": "/games/selenite/supermetroid/index.html"
+    },
+    {
+      "name": "Super Monkey Ball Jr",
+      "cover": "/games/selenite/supermonkeyballjr/monkeyballjr-1675104123999.jpg",
+      "url": "/games/selenite/supermonkeyballjr/index.html"
+    },
+    {
+      "name": "Super Princess Peach",
+      "cover": "/games/selenite/superprincesspeach/superprincesspeach-1650156712858.jpg",
+      "url": "/games/selenite/superprincesspeach/index.html"
+    },
+    {
+      "name": "Mario and Luigi Superstar Saga",
+      "cover": "/games/selenite/superstarsaga/placeholder.png",
+      "url": "/games/selenite/superstarsaga/index.html"
+    },
+    {
+      "name": "Super Tennis",
+      "cover": "/games/selenite/supertennis/supertennis.jpeg",
+      "url": "/games/selenite/supertennis/index.html"
+    },
+    {
+      "name": "Super Treadmill",
+      "cover": "/games/selenite/supertreadmill/super-treadmill.png",
+      "url": "/games/selenite/supertreadmill/index.html"
+    },
+    {
+      "name": "Swindler",
+      "cover": "/games/selenite/swindler/swindler-updates-22-02-12.png",
+      "url": "/games/selenite/swindler/index.html"
+    },
+    {
+      "name": "Swords And Sandals",
+      "cover": "/games/selenite/swordsandsandals/Swords_and_Sandals_I-_Gladiator.webp",
+      "url": "/games/selenite/swordsandsandals/index.html"
+    },
+    {
+      "name": "Swords And Sandals 2",
+      "cover": "/games/selenite/swordsandsandals2/swordsandsandles2.webp",
+      "url": "/games/selenite/swordsandsandals2/index.html"
+    },
+    {
+      "name": "Tap Road",
+      "cover": "/games/selenite/taproad/taproad.jpeg",
+      "url": "/games/selenite/taproad/index.html"
+    },
+    {
+      "name": "Test Subject Arena",
+      "cover": "/games/selenite/testsubjectarena/testsubjectarena.jpeg",
+      "url": "/games/selenite/testsubjectarena/index.html"
+    },
+    {
+      "name": "Test Subject Complete",
+      "cover": "/games/selenite/testsubjectcomplete/testsubjectcomplete.png",
+      "url": "/games/selenite/testsubjectcomplete/index.html"
+    },
+    {
+      "name": "The Sims 2",
+      "cover": "/games/selenite/thesims2/thesims2.jpeg",
+      "url": "/games/selenite/thesims2/index.html"
+    },
+    {
+      "name": "The Sims 3",
+      "cover": "/games/selenite/thesims3/thesims3.webp",
+      "url": "/games/selenite/thesims3/index.html"
+    },
+    {
+      "name": "Turok: Dinosaur Hunter",
+      "cover": "/games/selenite/turokdinosaurhunter/turok.jpeg",
+      "url": "/games/selenite/turokdinosaurhunter/index.html"
+    },
+    {
+      "name": "Twin Shot",
+      "cover": "/games/selenite/twinshot/logo.avif",
+      "url": "/games/selenite/twinshot/index.html"
+    },
+    {
+      "name": "Twin Shot 2",
+      "cover": "/games/selenite/twinshot2/twinshot2.jpeg",
+      "url": "/games/selenite/twinshot2/index.html"
+    },
+    {
+      "name": "Vectorman",
+      "cover": "/games/selenite/vectorman/vectorman-1648596388439.jpg",
+      "url": "/games/selenite/vectorman/index.html"
+    },
+    {
+      "name": "Vectorman 2",
+      "cover": "/games/selenite/vectorman2/Vectorman2.jpg",
+      "url": "/games/selenite/vectorman2/index.html"
+    },
+    {
+      "name": "Wario Land 4",
+      "cover": "/games/selenite/warioland4/warioland4-1654102202160.jpg",
+      "url": "/games/selenite/warioland4/index.html"
+    },
+    {
+      "name": "Wario Land II",
+      "cover": "/games/selenite/wariolandii/Wario_Land_II_NA_Box_Art.jpg",
+      "url": "/games/selenite/wariolandii/index.html"
+    },
+    {
+      "name": "Wario's Woods",
+      "cover": "/games/selenite/warioswoods/placeholder.png",
+      "url": "/games/selenite/warioswoods/index.html"
+    },
+    {
+      "name": "WarioWare",
+      "cover": "/games/selenite/warioware/Warioware1box.jpg",
+      "url": "/games/selenite/warioware/index.html"
+    },
+    {
+      "name": "WarioWare: DIY",
+      "cover": "/games/selenite/wariowarediy/wariowarediy-sq-1644007189616.jpg",
+      "url": "/games/selenite/wariowarediy/index.html"
+    },
+    {
+      "name": "WarioWare: Touched",
+      "cover": "/games/selenite/wariowaretouched/wariowaretouched.jpeg",
+      "url": "/games/selenite/wariowaretouched/index.html"
+    },
+    {
+      "name": "Waterworks",
+      "cover": "/games/selenite/waterworks/banner.png",
+      "url": "/games/selenite/waterworks/index.html"
+    },
+    {
+      "name": "Wave Race 64",
+      "cover": "/games/selenite/waverace64/cover.jpg",
+      "url": "/games/selenite/waverace64/index.html"
+    },
+    {
+      "name": "Worms: World Party",
+      "cover": "/games/selenite/wormsworldparty/wormsworldparty.jpg",
+      "url": "/games/selenite/wormsworldparty/index.html"
+    },
+    {
+      "name": "Yoshi's Island",
+      "cover": "/games/selenite/yoshisisland/yoshisisland.jpg",
+      "url": "/games/selenite/yoshisisland/index.html"
+    },
+    {
+      "name": "Yoshi's Story",
+      "cover": "/games/selenite/yoshisstory/yoshisstory.jpeg",
+      "url": "/games/selenite/yoshisstory/index.html"
+    },
+    {
+      "name": "Zombotron",
+      "cover": "/games/selenite/zombotron/zombotron.webp",
+      "url": "/games/selenite/zombotron/index.html"
+    },
+    {
+      "name": "Zombotron 2",
+      "cover": "/games/selenite/zombotron2/zombotron2.webp",
+      "url": "/games/selenite/zombotron2/index.html"
+    },
+    {
+      "name": "Peggle",
+      "cover": "/games/selenite/peggle/peggle.jpeg",
+      "url": "/games/selenite/peggle/index.html"
+    },
+    {
+      "name": "Gacha Life",
+      "cover": "/games/selenite/gachalife/gachalife.png",
+      "url": "/games/selenite/gachalife/index.html"
+    },
+    {
+      "name": "Gacha Club",
+      "cover": "/games/selenite/gachaclub/gachaclub.png",
+      "url": "/games/selenite/gachaclub/index.html"
+    },
+    {
+      "name": "Gachaverse",
+      "cover": "/games/selenite/gachaverse/gachaverse.png",
+      "url": "/games/selenite/gachaverse/index.html"
+    }
+  ]

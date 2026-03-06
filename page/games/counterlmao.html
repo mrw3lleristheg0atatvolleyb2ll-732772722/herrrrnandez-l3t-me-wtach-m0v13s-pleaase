@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>ahg</title>
+  </head>
+  <body>
+    <div id="stats-display">...</div>
+
+    <script>
+      async function countGames() {
+        const display = document.getElementById("stats-display");
+
+        try {
+          const response = await fetch("/asset/json/gamelists.json");
+          if (!response.ok)
+            throw new Error(
+              "sadhfgvjbndjsvsuiyghjrbefkdsyughvjbkegdhvusjbkhegjd"
+            );
+
+          const gameLists = await response.json();
+          const listCount = gameLists.length;
+
+          const fetchPromises = gameLists.map(async (list) => {
+            try {
+              const res = await fetch(list.File);
+              if (!res.ok) return [];
+              const data = await res.json();
+              return data;
+            } catch (err) {
+              console.warn(`FAIIKLKALALALSLALSKHKJASHJGDJAS ${list.File}`, err);
+              return [];
+            }
+          });
+
+          const allResults = await Promise.all(fetchPromises);
+
+          const totalGames = allResults.reduce((acc, gamesArray) => {
+            return acc + gamesArray.length;
+          }, 0);
+
+          display.textContent = `${totalGames} total games, ${listCount} gamelists`;
+        } catch (error) {
+          display.textContent =
+            "ERROROROROOROROROROROROOROEOROREOOEROEOEROER" + error.message;
+          console.error(error);
+        }
+      }
+
+      countGames();
+    </script>
+  </body>
+</html>
